@@ -1,6 +1,6 @@
 # Vibesbench: What does AI sound like?
 
-Vibesbench is a conversational AI benchmark. The sample converstions explore AI models&rsquo; fluency and linguistic pragmatics.
+Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
 
 ### 2025_W/godfather
 
@@ -14,3 +14,15 @@ Vibesbench is a conversational AI benchmark. The sample converstions explore AI 
 <i>90s alternative music: Courtney Love, women in rock, catharsis vs. angst, nu-metal backlash, and the cultural contradiction between Clinton-era optimism and youth disillusionment.</i>
 
 - [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/chatgpt-4o/readme.md)
+
+## Vibesbench in context
+
+Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
+
+The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities, but many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
+
+### AI as Interactive Collaborator
+
+Current AI development prominently pursues agentic use cases. Vibesbench instead tests LLMs in interactive mode: as a cognitive prosthetic, like a figurative heads-up display with a natural-language interface.
+
+ > &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
