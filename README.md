@@ -25,4 +25,6 @@ The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines som
 
 Current AI development prominently pursues agentic use cases. Vibesbench instead tests LLMs in interactive mode: as a cognitive prosthetic, like a figurative heads-up display with a natural-language interface.
 
- > &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
+> &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
+
+Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to high AI utility beyond commentary and analysis, such as in practical commercial tasks like tool use and code generation.
