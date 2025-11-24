@@ -21,9 +21,19 @@ Vibesbench focuses on multi-turn conversational coherence and interpretation, id
 
 The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities, but many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
 
+### The Vibe Check
+
+Current AI development increasingly prioritizes safety constraints, autonomous agent behavior, and STEM benchmarks.
+
+However, as Sam Altman acknowledged during the GPT-5 rollout:
+
+> “We for sure underestimated how much some of the things that people like in GPT-4o matter to them… We will try to do much better… about making sure that our model gets better for most users, not just people using AI for science or coding.”
+> 
+Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
+
 ### AI as Interactive Collaborator
 
-Current AI development prominently pursues agentic use cases. Vibesbench instead tests LLMs in interactive mode: as a cognitive prosthetic, like a figurative heads-up display with a natural-language interface.
+Vibesbench engages LLMs in interactive mode: as a cognitive prosthetic, like a figurative heads-up display with a natural-language interface.
 
 > &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
 
