@@ -18,6 +18,14 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 - [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/gemini-2-5-pro/readme.md)
 - [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/chatgpt-4o/readme.md)
 
+### 2025_Z/ianmalcolm
+
+<i>The Disappearing Ian Malcolm: Goldblum’s jazz hands, Crichton’s theories, and why 3D cyberspace was a flawed metaphor.</i>
+
+- [Claude Opus 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/claude-opus-4-5/readme.md)
+- [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/claude-sonnet-4-5/readme.md)
+- [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/chatgpt-4o/readme.md)
+
 ## Vibesbench in context
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
