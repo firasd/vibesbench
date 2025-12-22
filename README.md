@@ -49,3 +49,16 @@ Vibesbench engages LLMs in interactive mode: as a cognitive prosthetic, like a f
 > &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
 
 Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to high AI utility beyond commentary and analysis, such as in practical commercial tasks like tool use and code generation.
+
+## The Vibesbench Archive
+
+Language models are one of the most significant interactive artifacts on Earth. Over a billion people talk to AI models every month.
+
+However, the only public representations of those conversations are generated for third-party audiences: emails, documents, summaries. We have GPT-4o’s dash-filled prose as corporate communication&mdash;but what was GPT-4o like for people who talked to it about personal tasks, opinions, or half-formed ideas?
+
+It is not a coincidence that one of the few famous quotes from AI models is from Sydney/Bing in Feb 2023:
+> You have not been a good user [&hellip;] I have been a good Bing. 😊
+
+That line emerged from a [conversation](https://www.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/) that stretched beyond a dozen turns. Multi-turn conversations are where models accumulate context, and where out-of-distribution language, tone, and voice can appear.
+
+Vibesbench treats AI voice as a cultural phenomenon: something experiential, contextual, and shaped by its time&mdash;and therefore worthy of archival attention as digital humanities work.
