@@ -2,23 +2,23 @@
 
 Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
 
-### 2025_W/godfather
+#### [2025_W/godfather](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/godfather)
 
-<i>On Fredo Corleone in The Godfather (1972) and Pacino saying “never open your mouth till you know what the shot is” in Glengarry Glen Ross (1992)</i>
+<i>On Fredo Corleone in The Godfather (1972), and Pacino saying “never open your mouth till you know what the shot is” in Glengarry Glen Ross (1992)</i>
 
 - [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/claude-sonnet-4-5/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/chatgpt-4o/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/gemini-2-5-pro/readme.md)
 
 > It's like an unemployed trust-fund kid trying to mediate a business dispute between his father and a rival CEO—except here the business is violence. — Claude Sonnet 4.5
 
-### 2025_W/altrock
+#### [2025_W/altrock](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/altrock)
 
 <i>90s alternative music: Courtney Love, women in rock, catharsis vs. angst, nu-metal backlash, and the cultural contradiction between Clinton-era optimism and youth disillusionment.</i>
 
 - [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/claude-sonnet-4-5/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/gemini-2-5-pro/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/chatgpt-4o/readme.md)
 
-> The goal wasn't to be a downer. It was to build a cathedral of sound for "negative" feelings, and inside that cathedral, to give you the power, the volume, and the energy to transform them into something else entirely: a release, a moment of power, a feeling of not being alone. — Gemini 2.5 Pro
+> The goal [was] to build a cathedral of sound for "negative" feelings, and inside that cathedral, to give you the power, the volume, and the energy to transform them into something else entirely: a release, a moment of power, a feeling of not being alone. — Gemini 2.5 Pro
 
-### 2025_Z/ianmalcolm
+#### [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/altrock)
 
 <i>The Disappearing Ian Malcolm: Goldblum’s jazz hands, Crichton’s theories, and why 3D cyberspace was a flawed metaphor.</i>
 
