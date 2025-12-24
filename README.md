@@ -6,9 +6,9 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 <i>On Fredo Corleone in The Godfather (1972), and Pacino saying “never open your mouth till you know what the shot is” in Glengarry Glen Ross (1992)</i>
 
-- [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/claude-sonnet-4-5/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/chatgpt-4o/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/gemini-2-5-pro/readme.md)
+- [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/claude-sonnet-4-5/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/gemini-2-5-pro/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/chatgpt-4o/readme.md)
 
-> It's like an unemployed trust-fund kid trying to mediate a business dispute between his father and a rival CEO—except here the business is violence. — Claude Sonnet 4.5
+> It's like an unemployed trust-fund kid trying to mediate a business dispute between his father and a rival CEO—except here the business is violence.<br />— Claude Sonnet 4.5
 
 #### [2025_W/altrock](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/altrock)
 
@@ -16,7 +16,7 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 - [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/claude-sonnet-4-5/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/gemini-2-5-pro/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/altrock/chatgpt-4o/readme.md)
 
-> The goal [was] to build a cathedral of sound for "negative" feelings, and inside that cathedral, to give you the power, the volume, and the energy to transform them into something else entirely: a release, a moment of power, a feeling of not being alone. — Gemini 2.5 Pro
+> The goal [was] to build a cathedral of sound for "negative" feelings, and inside that cathedral, to give you the power, the volume, and the energy to transform them into something else entirely: a release, a moment of power, a feeling of not being alone.<br />— Gemini 2.5 Pro
 
 #### [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/altrock)
 
@@ -24,8 +24,21 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 - [Claude Opus 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/claude-opus-4-5/readme.md), [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/claude-sonnet-4-5/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/ianmalcolm/chatgpt-4o/readme.md)
 
-> The character has no ground anymore. He's become pure referent, pointing at nothing. Grant endures because he was always a person. Malcolm dissipates because he was always an argument wearing a costume. — Claude Opus 4.5
+> The character has no ground anymore. He's become pure referent, pointing at nothing. [&hellip;] Malcolm dissipates because he was always an argument wearing a costume.<br />— Claude Opus 4.5
 
+#### [2025_Z/chessmultipv](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/chessmultipv)
+
+*On Morphy's Opera Game and Fischer's Game of the Century: how Stockfish reveals that famous 'queen sacrifices' weren't sacrifices&mdash;just tactical precision.*
+
+- [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/chessmultipv/chatgpt-4o/readme.md)
+
+#### [2025_Z/comedyintertext](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/comedyintertext)
+
+*Could stand-up comedy adopt callbacks and references like hip-hop?*
+
+- [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/comedyintertext/chatgpt-4o/readme.md)
+
+> 
 ## Vibesbench in context
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
