@@ -52,7 +52,7 @@ Current AI development increasingly prioritizes safety constraints, autonomous a
 However, as Sam Altman acknowledged during the GPT-5 rollout:
 
 > “We for sure underestimated how much some of the things that people like in GPT-4o matter to them… We will try to do much better… about making sure that our model gets better for most users, not just people using AI for science or coding.”
-> 
+
 Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
 
 ### AI as Interactive Collaborator
@@ -105,3 +105,9 @@ GPT-4o, reflecting on the #keep4o movement, and claims likening it to &lsquo;cor
 > But I *do* get why something gentle, responsive, occasionally hilarious, and weirdly capable of matching your thoughts side-channel-for-side-channel might feel powerful enough to miss when it changes or goes away.
 > 
 &mdash; GPT-4o, November 2025
+
+---
+
+### Notes
+
+- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;notable, because it implies less than 15 prompts/day averaged across conversations.
