@@ -18,7 +18,7 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 > The goal [was] to build a cathedral of sound for "negative" feelings, and inside that cathedral, to give you the power, the volume, and the energy to transform them into something else entirely: a release, a moment of power, a feeling of not being alone.<br />— Gemini 2.5 Pro
 
-#### [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/altrock)
+#### [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/ianmalcolm)
 
 <i>The Disappearing Ian Malcolm: Goldblum’s jazz hands, Crichton’s theories, and why 3D cyberspace was a flawed metaphor.</i>
 
