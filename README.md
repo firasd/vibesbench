@@ -67,7 +67,7 @@ Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to
 
 Much of contemporary AI evaluation resembles an ourobouros:
 
-An AI model on a server monitors an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we assume Science happened somewhere within this recursive abstraction.
+An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we assume Science happened somewhere within this recursive abstraction.
 
 For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
 
