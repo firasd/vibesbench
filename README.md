@@ -63,6 +63,22 @@ Vibesbench engages LLMs in interactive mode: as a cognitive prosthetic, like a f
 
 Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to high AI utility beyond commentary and analysis, such as in practical commercial tasks like tool use and code generation.
 
+### Science 101
+
+Much of contemporary AI evaluation resembles an ourobouros:
+
+An AI model on a server monitors an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we assume Science happened somewhere within this recursive abstraction.
+
+For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
+
+However, the actual prompt-response pairs are not in evidence for third parties to examine. Any evaluation that does not preserve this data is not merely incomplete; it is methodologically unsound.
+
+Is it even coherent to judge a behavior as subtle as &lsquo;sycophancy&rsquo; mechanistically, without qualia? Vibesbench takes a step back from this hall of mirrors.
+
+We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI interaction: it is the prompt and the response.
+
+Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact. In Susan Sontag’s terms, this is attention to “the luminousness of the thing in itself”—the same stance by which archeology and art criticism treat artifacts as first-order evidence.
+
 ## The Vibesbench Archive
 
 Language models are one of the most significant interactive artifacts on Earth. Over a billion people talk to AI models every month.
