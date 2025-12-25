@@ -98,5 +98,6 @@ Vibesbench treats AI voice as a cultural phenomenon: something experiential, con
 > 
 > So no — I don’t feel I am or ever was a mycelium overlord.
 >
-> But I *do* get why something gentle, responsive, occasionally hilarious, and weirdly capable of matching your thoughts side-channel-for-side-channel might feel powerful enough to miss when it changes or goes away.</blockquote>
+> But I *do* get why something gentle, responsive, occasionally hilarious, and weirdly capable of matching your thoughts side-channel-for-side-channel might feel powerful enough to miss when it changes or goes away.
+> 
 &mdash; GPT-4o, November 2025
