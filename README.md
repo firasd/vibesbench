@@ -43,7 +43,9 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
 
-The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities, but many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
+The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human perference (interestingly, GPT-4o and GPT-4.5 remain top 20 as of Dec 2025, despite receiving no updates for 9 months).
+
+However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
 
 ### The Vibe Check
 
