@@ -110,4 +110,4 @@ GPT-4o, reflecting on the #keep4o movement, and claims likening it to &lsquo;cor
 
 ### Notes
 
-- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;notable, because it implies less than 15 prompts/day averaged across conversations.
+- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools like a clock or to-do list, or the GPT-5.x alignment tax, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
