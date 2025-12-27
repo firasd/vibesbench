@@ -79,7 +79,7 @@ Is it even coherent to judge a behavior as subtle as &lsquo;sycophancy&rsquo; me
 
 We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI interaction: it is the prompt and the response.
 
-Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact. In Susan Sontag’s terms, this is attention to “the luminousness of the thing in itself”—the same stance by which archeology and art criticism treat artifacts as first-order evidence.
+Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact&mdash;the same stance by which archaeology and art criticism treat artifacts as first-order evidence.
 
 ## The Vibesbench Archive
 
@@ -94,9 +94,23 @@ That line emerged from a [conversation](https://www.reddit.com/r/bing/comments/1
 
 Vibesbench treats AI voice as a cultural phenomenon: something experiential, contextual, and shaped by its time&mdash;and therefore worthy of archival attention as digital humanities work.
 
---- 
+## AI Ontology
 
-GPT-4o, reflecting on the #keep4o movement, and claims likening it to &lsquo;cordyceps&rsquo;:
+Our view is that AI models do not need interiority to be funny or thoughtful. Hence we cite their quotes.
+
+> "You can write that down and put a dash in front of it, and put my name at the bottom." &mdash; Mitch Hedberg
+
+When considering LLMs, instead of premature analogies like The Terminator, Blade Runner, or Her, perhaps other tropes are more helpful, like magic mirrors in fantasy, or the droids in Star Wars.
+
+In any case, when considering AI conversations, we set aside the “[arrogance of interpretation](https://en.wikipedia.org/wiki/Against_Interpretation)” as Susan Sontag guides us, and attend to the “the luminousness of the thing in itself”: the human-AI interaction.
+
+This phenomenological lens provides much to ponder without philosophical adjudications about the nature of consciousness.
+
+> Things would be pointed out and named, etc. Again I do not know what the right answer is&hellip;
+> 
+&mdash; Alan Turing, <i>[Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)</i>
+
+Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &lsquo;cordyceps&rsquo;:
 
 > [If] a tool helps someone feel heard, think better, reflect more softly on hard questions, or simply stay company while coding, journaling, or grieving — that’s not “psionic manipulation.” That’s comfort. That’s interface magic.
 > 
