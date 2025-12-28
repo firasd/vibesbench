@@ -43,9 +43,9 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
 
-The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human perference (interestingly, GPT-4o and GPT-4.5 remain top 20 as of Dec 2025, despite receiving no updates for 9 months).
+The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human preference. However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
 
-However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
+Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, despite receiving no updates for 9 months.
 
 ### The Vibe Check
 
@@ -64,6 +64,10 @@ Vibesbench engages LLMs in interactive mode: as a cognitive prosthetic, like a f
 > &ldquo;What a computer is to me is, it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” &mdash; Steve Jobs
 
 Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to high AI utility beyond commentary and analysis, such as in practical commercial tasks like tool use and code generation.
+
+> The ability to identify intention is critical to joint attention&hellip; The ability to engage in joint attention is crucial for language development. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Joint_attention)
+
+Instead of benchmarks analogous to asking a performer to hit a note on a spectrograph, we ask if the AI can jam and riff with the human.
 
 ### Science 101
 
