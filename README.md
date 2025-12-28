@@ -6,7 +6,7 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 
 <i>On Fredo Corleone in The Godfather (1972), and Pacino saying “never open your mouth till you know what the shot is” in Glengarry Glen Ross (1992)</i>
 
-- [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/claude-sonnet-4-5/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/gemini-2-5-pro/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/chatgpt-4o/readme.md)
+- [Prompts](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/standardprompts/readme.md), [Claude Sonnet 4.5](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/claude-sonnet-4-5/readme.md), [Gemini 2.5 Pro](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/gemini-2-5-pro/readme.md), [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_W/godfather/chatgpt-4o/readme.md)
 
 > It's like an unemployed trust-fund kid trying to mediate a business dispute between his father and a rival CEO—except here the business is violence.<br />— Claude Sonnet 4.5
 
