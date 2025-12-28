@@ -87,6 +87,16 @@ We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI 
 
 Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact&mdash;the same stance by which archaeology and art criticism treat artifacts as first-order evidence.
 
+### The Sycophancy Panic of 2025
+
+The crusade against sycophancy in language models is turning into a hodgepodge of complaints about phrasing in model outputs.
+
+To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
+
+But no amount of persona tuning will deliver epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why that great movie flopped. 
+
+Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
+
 ## The Vibesbench Archive
 
 Language models are one of the most significant interactive artifacts on Earth. Over a billion people talk to AI models every month.
