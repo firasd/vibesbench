@@ -67,7 +67,7 @@ Pragmatic fluency enables alignment with the user&rsquo;s intent, which leads to
 
 > The ability to identify intention is critical to joint attention&hellip; The ability to engage in joint attention is crucial for language development. &mdash; [Wikipedia](https://en.wikipedia.org/wiki/Joint_attention)
 
-Instead of benchmarks analogous to asking a performer to hit a note on a spectrograph, we ask if the AI can jam and riff with the human.
+Instead of benchmarks analogous to asking a performer to hit a note on a spectrograph, we ask if the AI can jam and riff with the human. A good HUD like the T-800&rsquo;s Thermovision requires interactivity to report a jacket size in real time.
 
 ### Science 101
 
