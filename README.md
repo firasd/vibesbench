@@ -110,6 +110,8 @@ When considering LLMs, instead of premature analogies like The Terminator, Blade
 
 In any case, when considering AI conversations, we set aside the “[arrogance of interpretation](https://en.wikipedia.org/wiki/Against_Interpretation)” as Susan Sontag guides us, and attend to the “the luminousness of the thing in itself”: the human-AI interaction.
 
+> &ldquo;surely ChatGPT would at least say a few cheering-up words to the client floundering in the vicissitudes of adult life, even if they are programmed syllables.&rdquo; &mdash; [Joyce Carol Oates](https://x.com/JoyceCarolOates/status/1997699047138726319)
+
 This phenomenological lens provides much to ponder without philosophical adjudications about the nature of consciousness.
 
 > Things would be pointed out and named, etc. Again I do not know what the right answer is&hellip;
