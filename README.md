@@ -73,13 +73,15 @@ Instead of benchmarks analogous to asking a performer to hit a note on a spectro
 
 Much of contemporary AI evaluation resembles an ourobouros:
 
-An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we assume Science happened somewhere within this recursive abstraction.
+An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we satisfy ourselves that Science happened somewhere within this recursive synthetic abstraction.
 
 For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
 
 However, the actual prompt-response pairs are not in evidence for third parties to examine. Any evaluation that does not preserve this data is not merely incomplete; it is methodologically unsound.
 
-Is it even coherent to judge a behavior as subtle as &lsquo;sycophancy&rsquo; mechanistically, without qualia? Vibesbench takes a step back from this hall of mirrors.
+Is it even coherent to judge a behavior as subtle as ‘sycophancy’ mechanistically, without qualia? How well do synthetic judges distinguish ‘great point’ as a phatic expression enabling joint attention, as opposed to a failure of ‘alignment’?
+
+Vibesbench takes a step back from this hall of mirrors.
 
 We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI interaction: it is the prompt and the response.
 
