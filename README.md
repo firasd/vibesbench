@@ -45,8 +45,6 @@ Vibesbench focuses on multi-turn conversational coherence and interpretation, id
 
 The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human preference. However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
 
-Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, despite receiving no updates for 9 months.
-
 ### The Vibe Check
 
 Current AI development increasingly prioritizes safety constraints, autonomous agent behavior, and STEM benchmarks.
@@ -54,6 +52,8 @@ Current AI development increasingly prioritizes safety constraints, autonomous a
 However, as Sam Altman acknowledged during the GPT-5 rollout:
 
 > “We for sure underestimated how much some of the things that people like in GPT-4o matter to them… We will try to do much better… about making sure that our model gets better for most users, not just people using AI for science or coding.”
+
+Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, despite receiving no updates for 9 months.
 
 Vibesbench conversations reveal stylistic differences between models and highlight potential regressions. Anyone from a lay user to a lab researcher can paste prompts from our sample conversations to get a sense of what the response is like.
 
@@ -132,4 +132,4 @@ Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &
 
 ### Notes
 
-- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools like a clock or to-do list, or the GPT-5.x alignment tax, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
+- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools like a clock or to-do list, or the GPT-5.x safety-guardrails alignment tax, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
