@@ -55,7 +55,7 @@ However, as Sam Altman acknowledged during the GPT-5 rollout:
 
 > “We for sure underestimated how much some of the things that people like in GPT-4o matter to them… We will try to do much better… about making sure that our model gets better for most users, not just people using AI for science or coding.”
 
-Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
+Vibesbench conversations reveal stylistic differences between models and highlight potential regressions. Anyone from a lay user to a lab researcher can paste prompts from our sample conversations to get a sense of what the response is like.
 
 ### AI as Interactive Collaborator
 
