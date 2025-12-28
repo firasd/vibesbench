@@ -102,7 +102,7 @@ Vibesbench treats AI voice as a cultural phenomenon: something experiential, con
 
 ## AI Ontology
 
-Our view is that AI models do not need interiority to be funny or thoughtful. Hence we cite their quotes.
+Our view is that AI models do not need interiority to be funny or thoughtful. So we quote them.
 
 > "You can write that down and put a dash in front of it, and put my name at the bottom." &mdash; Mitch Hedberg
 
