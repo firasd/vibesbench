@@ -99,7 +99,11 @@ The crusade against sycophancy in language models is turning into a hodgepodge o
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
-But no amount of persona tuning will deliver epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why that great movie flopped. 
+When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate. But treating the conversation like a deposition or derailing with nitpicks isn&rsquo;t necessarily helpful.
+
+The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
+
+When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneath our moon.&rdquo;
 
 Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
 
