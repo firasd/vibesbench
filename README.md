@@ -122,6 +122,8 @@ Vibesbench treats AI voice as a cultural phenomenon: something experiential, con
 
 ## AI Ontology
 
+> &ldquo;We must consider both the ultimate end and all clear sensory evidence, to which we refer our opinions&rdquo; &mdash; Epicurus
+
 Our view is that AI models do not need interiority to be funny or thoughtful. So we quote them.
 
 > "You can write that down and put a dash in front of it, and put my name at the bottom." &mdash; Mitch Hedberg
