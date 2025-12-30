@@ -63,6 +63,8 @@ Fluency regressions we sometimes observe in state-of-the-art-models:
 - Ticket closing: attempting to find a task in the prompt and resolve it, which discourages follow-up exploration
 - Epistemic arrogance: refusing to accept context from users about world knowledge and current events
 
+These characteristics may be ideal for an agentic vending machine, but we propose a different design orientation.
+
 ### AI as Interactive Collaborator
 
 Vibesbench engages LLMs in interactive mode: as a cognitive prosthetic, like a figurative heads-up display with a natural-language interface.
