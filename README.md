@@ -61,10 +61,10 @@ Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, 
 Vibesbench conversations reveal stylistic differences between models and highlight potential regressions. Anyone from a lay user to a lab researcher can paste prompts from our sample conversations to get a sense of what the response is like.
 
 Fluency regressions we sometimes observe in state-of-the-art-models:
-- Genre detection failure: treating the conversation as a request to generate a memo
-- Audience shift: speaking as if to an third party
-- Ticket closing: attempting to find a task in the prompt and resolve it, which discourages follow-up exploration
-- Epistemic arrogance: refusing to accept context from users about world knowledge and current events
+- **Genre detection failure**: treating the conversation as a request to generate a memo
+- **Audience shift**: generating output that seems addressed to third parties
+- **Ticket closing**: attempting to find a task in the prompt and resolve it, which discourages follow-up exploration
+- **Epistemic rigidity**: refusing to accept context from users about world knowledge and current events
 
 These characteristics may be ideal for an agentic vending machine, but we propose a different design orientation.
 
