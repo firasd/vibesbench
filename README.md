@@ -97,13 +97,18 @@ We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI 
 
 Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact&mdash;the same stance by which archaeology and art criticism treat artifacts as first-order evidence.
 
-### The Sycophancy Panic of 2025
+### On Disagreement
+
+#### The Sycophancy Panic of 2025
 
 The crusade against sycophancy in language models is turning into a hodgepodge of complaints about phrasing in model outputs.
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
 When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate. But treating the conversation like a deposition or derailing with nitpicks isn&rsquo;t necessarily helpful.
+
+> Look, this isn't an argument. […] It‘s just contradiction.<br />
+> &mdash; Monty Python
 
 The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
 
