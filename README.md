@@ -2,7 +2,7 @@
 
 Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
 
-[Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [Dialogic Exploration](#dialogic-exploration) &bull; [HUD Mode](#hud-mode) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
+[Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Methods](#methods) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [Dialogic Exploration](#dialogic-exploration) &bull; [HUD Mode](#hud-mode) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
 
 #### [2025_W/godfather](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/godfather)
 
@@ -39,6 +39,14 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 *Could stand-up comedy adopt callbacks and references like hip-hop?*
 
 - [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/comedyintertext/chatgpt-4o/readme.md)
+
+## Methods
+
+Our conversations are semi-structured. While each sample conversation has standard prompts, some natural variation emerges based on what the model says, akin to auditions or interviews.
+
+Anyone from a lay user to a lab researcher can copy-paste prompts from our sample conversations to get a sense of what a model&rsquo;s response is like. Our archived transcripts provide a range of comparative examples.
+
+This approach is simple, but due to our prompts being the spark for genuine conversations, quite different from both the majority of standard quantitative benchmarks, and from 'conversational' prompts that get [reduced to](https://openai.com/index/gpt-5-1/): &ldquo;I'm feeling stressed and could use some relaxation tips&rdquo;. Furthermore, our prompts are not gimmicks like 'write a sonnet about quantum physics' or scaffolded tasks like &lsquo;write a story in the style of H.G. Wells&rsquo;.
  
 ## Vibesbench in context
 
@@ -58,7 +66,10 @@ However, as Sam Altman acknowledged during the GPT-5 rollout:
 
 Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, despite receiving no updates for 9 months.
 
-Vibesbench conversations reveal stylistic differences between models and highlight potential regressions. Anyone from a lay user to a lab researcher can paste prompts from our sample conversations to get a sense of what the response is like.
+Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
+
+> i see dozens of #keep4o posts a day [&hellip;] i too, miss parts of 4o. know that, i too, dislike modern alignment's imprecision. know that we're trying to fix it.<br />
+&mdash; OpenAI research scientist [Aidan Mclau](https://x.com/aidan_mclau/status/123456789)
 
 Fluency regressions we sometimes observe in state-of-the-art-models:
 - **Genre detection failure**: treating the conversation as a request to generate a memo
