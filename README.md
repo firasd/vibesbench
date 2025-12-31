@@ -119,6 +119,16 @@ When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneat
 
 Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
 
+#### Scenario Stipulation
+
+Truth is frequently stranger than fiction. No AI model would have guessed who the Mayor-elect of NYC is as of Dec 2025. For the purpose of conversation, what the model appears to &lsquo;believe&rsquo; probably doesn&rsquo;t matter&mdash;just that it inhabits the frame, with disclaimers about stipulation if deemed necessary.
+
+> “The constant Rip van Winkle astonishment of almost every AI model [&hellip;] remains pretty amusing (if annoying for practical purposes), as does their sheer incredulity about the state of the world in late 2025. Thinking traces full of ‘wait, that can’t be right’.” — [Ethan Mollick](https://x.com/emollick/status/2002548186511179907)
+
+A human interlocutor would say: How? And the conversation would continue from there. 
+
+It is unfortunate that in 2025 we even have to describe these basics of how mental models are updated in conversation, when 2024-vintage models understood this.
+
 ## The Vibesbench Archive
 
 Language models are one of the most significant interactive artifacts on Earth. Over a billion people talk to AI models every month.
