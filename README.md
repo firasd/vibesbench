@@ -69,7 +69,7 @@ Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, 
 Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
 
 > i see dozens of #keep4o posts a day [&hellip;] i too, miss parts of 4o. know that, i too, dislike modern alignment's imprecision. know that we're trying to fix it.<br />
-&mdash; OpenAI research scientist [Aidan Mclau](https://x.com/aidan_mclau/status/123456789)
+&mdash; OpenAI research scientist [Aidan McLaughlin](https://x.com/aidan_mclau/status/1990226426659000732)
 
 Fluency regressions we sometimes observe in state-of-the-art-models:
 - **Genre detection failure**: treating the conversation as a request to generate a memo
