@@ -145,9 +145,9 @@ Through dialogue, humans can quickly traverse the latent space of a language mod
 
 ## HUD Mode
 
-Over three years after the launch of ChatGPT, major AI chat apps still dont have basic tools like a clock or to-do list. The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand. 
+Over three years after the launch of ChatGPT, major AI chat apps still don&rsquo;t have basic tools like a clock or to-do list. The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand. 
 
-However, this approach completely hobbles &lsquo;heads-up display&rsquo;-style usage. A GPS navigation system doesn’t write new trignometry based functions every time it updates your route. Similarly, an AI without access to high-frequency tools can't help check if you are on track to finish a presentation in time for your meeting. In such cases, multi-turn conversation is not a digression from task&mdash;executive assistance *is* the task.
+However, this approach completely hobbles &lsquo;heads-up display&rsquo;-style usage. A GPS navigation system doesn’t write new trigonometry based functions every time it updates your route. Similarly, an AI without access to high-frequency tools can't help check if you are on track to finish a presentation in time for your meeting. In such cases, multi-turn conversation is not a digression from task&mdash;executive assistance *is* the task.
 
 It is illustrative that Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools, or the alignment tax of safety guardrails, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
 
