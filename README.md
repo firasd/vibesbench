@@ -2,6 +2,8 @@
 
 Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
 
+[Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
+
 #### [2025_W/godfather](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/godfather)
 
 <i>On Fredo Corleone in The Godfather (1972), and Pacino saying “never open your mouth till you know what the shot is” in Glengarry Glen Ross (1992)</i>
@@ -37,9 +39,10 @@ Vibesbench is a conversational AI benchmark. The sample conversations explore AI
 *Could stand-up comedy adopt callbacks and references like hip-hop?*
 
 - [ChatGPT-4o](https://github.com/firasd/vibesbench/blob/main/data/transcripts/2025_Z/comedyintertext/chatgpt-4o/readme.md)
-
-> 
+ 
 ## Vibesbench in context
+
+  [The Vibe Check](#the-vibe-check) &bull; [AI as Interactive Collaborator](#ai-as-interactive-collaborator) &bull; [Science 101](#science-101) &middot; [On Disagreement](#on-disagreement)
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
 
