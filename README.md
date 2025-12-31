@@ -46,7 +46,7 @@ Our conversations are semi-structured. While each sample conversation has standa
 
 Anyone from a lay user to a lab researcher can copy-paste prompts from our sample conversations to get a sense of what a model&rsquo;s response is like. Our archived transcripts provide a range of comparative examples.
 
-This approach is simple, but due to our prompts being the spark for genuine conversations, quite different from both the majority of standard quantitative benchmarks, and from 'conversational' prompts that get [reduced to](https://openai.com/index/gpt-5-1/): &ldquo;I'm feeling stressed and could use some relaxation tips&rdquo;. Furthermore, our prompts are not gimmicks like 'write a sonnet about quantum physics' or scaffolded tasks like &lsquo;write a story in the style of H.G. Wells&rsquo;.
+This approach is simple, but because our prompts act as sparks for genuine conversations, quite different from both the majority of standard quantitative benchmarks, and from 'conversational' prompts that get [reduced to](https://openai.com/index/gpt-5-1/): &ldquo;I'm feeling stressed and could use some relaxation tips&rdquo;. Furthermore, our prompts are not gimmicks like 'write a sonnet about quantum physics' or scaffolded tasks like &lsquo;write a story in the style of H.G. Wells&rsquo;.
  
 ## Vibesbench in context
 
