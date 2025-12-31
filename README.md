@@ -108,7 +108,7 @@ The crusade against sycophancy in language models is turning into a hodgepodge o
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
-When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate. But treating the conversation like a deposition or derailing with nitpicks isn&rsquo;t necessarily helpful.
+When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate. But treating user prompts like questions in a deposition or derailing with nitpicks isn&rsquo;t necessarily helpful.
 
 > Look, this isn't an argument. […] It‘s just contradiction.<br />
 > &mdash; Monty Python
