@@ -133,9 +133,9 @@ It is unfortunate that in 2025 we even have to describe these basics of how ment
 
 An oracular query-contemplation paradigm is not satisfactory for tasks that are open-ended, or situated within uncertain information.
 
-Even when it comes to software development, a chain of thought that concludes there must be a bug in the library is almost useless compared to debugging by reverting commits or tracking data flow. Not to mention that communication is inherent to collabortion. (Notably, Opus 4.5 with thinking off is statistically tied with top thinking models on the LMArena [Web Dev leaderboard](https://lmarena.ai/leaderboard/webdev).)
+Even in software development, a chain of thought that concludes &lsquo;there must be a bug in the library&rsquo; is less useful than debugging by reverting commits or tracing data flow. Not to mention that communication is inherent to collaborative work. (Notably, Opus 4.5 with thinking off is statistically tied with top thinking models on the LMArena [Web Dev leaderboard](https://lmarena.ai/leaderboard/webdev).)
 
-Furthmore, insights are usually contingent on context. As Douglas Adams memorably noted, even a perfect answer like ‘42’ can be illegible without a corresponding clear question.
+Furthermore, insights are usually contingent on context. As Douglas Adams memorably noted, even a perfect answer like ‘42’ can be illegible without a corresponding clear question.
 
 ### Resonance-based Traversal
 
