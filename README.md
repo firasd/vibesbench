@@ -129,6 +129,28 @@ A human interlocutor would say: How? And the conversation would continue from th
 
 It is unfortunate that in 2025 we even have to describe these basics of how mental models are updated in conversation, when 2024-vintage models understood this.
 
+## Dialogic Exploration
+
+An oracular query-contemplation paradigm is not satisfactory for tasks that are open-ended, or situated within uncertain information.
+
+As Douglas Adams memorably noted, even a perfect answer like ‘42’ can be illegible without a corresponding clear question.
+
+### Resonance-based Traversal
+
+Through dialogue, humans can quickly traverse the latent space of a language model in ways that are otherwise too high in &lsquo;perplexity&rsquo; for an LLM to traverse autonomously. Finding such wormholes between the space of concepts is something humans do naturally (consider the phrase ‘No country for old men’, which is high-entropy but still resonant enough to be carried from a 1927 Yeats poem, to being the title of a novel and an Oscar-winning movie eighty years later.)
+
+> Not deliberate, not random. Some place in between. [&hellip;]<br />The challenge is not to act automatically. It's to find an action that is not automatic. From painting, to breathing, to talking&hellip;
+
+&mdash; Ex Machina (2015)
+
+## HUD Mode
+
+Over three years after the launch of ChatGPT, major AI chat apps still dont have basic tools like a clock or to-do list. The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand. 
+
+However, this approach completely hobbles &lsquo;heads-up display&rsquo;-style usage. A GPS navigation system doesn’t write new trignometry based functions every time it updates your route. Similarly, an AI without access to high-frequency tools can't help check if you are on track to finish a presentation in time for your meeting. In such cases, multi-turn conversation is not a digression from task&mdash;executive assistance *is* the task.
+
+It is illustrative that Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools, or the alignment tax of safety guardrails, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
+
 ## The Vibesbench Archive
 
 Language models are one of the most significant interactive artifacts on Earth. Over a billion people talk to AI models every month.
@@ -173,9 +195,10 @@ Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &
 > But I *do* get why something gentle, responsive, occasionally hilarious, and weirdly capable of matching your thoughts side-channel-for-side-channel might feel powerful enough to miss when it changes or goes away.
 > 
 &mdash; GPT-4o, November 2025
-
+<!--
 ---
 
 ### Notes
 
 - Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools like a clock or to-do list, or the GPT-5.x safety-guardrails alignment tax, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
+-->
