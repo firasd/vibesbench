@@ -125,12 +125,18 @@ The crusade against sycophancy in language models is turning into a hodgepodge o
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
-When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate. But treating user prompts like questions in a deposition or derailing with nitpicks isn&rsquo;t necessarily helpful.
+When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate.
+
+For example:
+- If the user says Verhoeven films don&rsquo;t have good cinematography, the Gemini 2.5/3 Pro models will take exception and protest that they look that way on purpose. That&rsquo;s fine.
+- Similarly, disagreeing about a particular software implementation approach can be benefical as a stress-test of the concept.
+
+But treating user prompts like questions in a deposition, derailing with nitpicks, or unfounded status quo bias isn&rsquo;t necessarily helpful.
 
 > Look, this isn't an argument. […] It‘s just contradiction.<br />
 > &mdash; Monty Python
 
-The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
+The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning for skepticism will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
 
 When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneath our moon.&rdquo;
 
