@@ -93,7 +93,7 @@ Instead of benchmarks analogous to asking a performer to hit a note on a spectro
 
 ### Science 101
 
-Much of contemporary AI evaluation resembles an ourobouros:
+Much of contemporary AI evaluation resembles an ouroboros:
 
 An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we satisfy ourselves that Science happened somewhere within this recursive synthetic abstraction.
 
@@ -113,7 +113,7 @@ Vibesbench therefore treats conversation not as a byproduct of evaluation, but a
 
 ### Limitations and Scope
 
-Vibesbench highlights the quality of AI product experience for a competent conversational user. It does not evaluate business workflows or STEM capabilities, nor does it attempt to address the full range of alignment concernts related to mental health, corporate policy, or societal risk tolerance.
+Vibesbench highlights the quality of AI product experience for a competent conversational user. It does not evaluate business workflows or STEM capabilities, nor does it attempt to address the full range of alignment concerns related to mental health, corporate policy, or societal risk tolerance.
 
 Our view is that a large proportion of monthly active users&mdash;whose interactions collectively underpin the AI industry’s economic value&mdash;engage models in dialogic, exploratory ways. Constraints that degrade this conversational use case entail trade-offs relative to other goals.
 
