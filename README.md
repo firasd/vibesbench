@@ -111,6 +111,12 @@ We ask, in the spirit of Marcus Aurelius, what is the thing in itself? In an AI 
 
 Vibesbench therefore treats conversation not as a byproduct of evaluation, but as the primary artifact&mdash;the same stance by which archaeology and art criticism treat artifacts as first-order evidence.
 
+### Limitations and Scope
+
+Vibesbench highlights the quality of AI product experience for a competent conversational user. It does not evaluate business workflows or STEM capabilities, nor does it attempt to address the full range of alignment concernts related to mental health, corporate policy, or societal risk tolerance.
+
+Our view is that a large proportion of monthly active users&mdash;whose interactions collectively underpin the AI industry’s economic value&mdash;engage models in dialogic, exploratory ways. Constraints that degrade this conversational use case entail trade-offs relative to other goals.
+
 ### On Disagreement
 
 #### The Sycophancy Panic of 2025
