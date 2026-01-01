@@ -128,7 +128,7 @@ To the extent that it refers to guardrails around mental health, clear reasoning
 When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate.
 
 For example:
-- If the user says Verhoeven films don&rsquo;t have good cinematography, the Gemini 2.5/3 Pro models will take exception and protest that they look that way on purpose. That&rsquo;s fine.
+- If the user says Verhoeven films don’t have good cinematography, the Gemini 2.5/3 Pro models will take exception and argue that the aesthetic is deliberate. That’s fine.
 - Similarly, disagreeing about a particular software implementation approach can be benefical as a stress-test of the concept.
 
 But treating user prompts like questions in a deposition, derailing with nitpicks, or unfounded status quo bias isn&rsquo;t necessarily helpful.
