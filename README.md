@@ -46,7 +46,26 @@ Our conversations are semi-structured. While each sample conversation has standa
 
 Anyone from a lay user to a lab researcher can copy-paste prompts from our sample conversations to get a sense of what a model&rsquo;s response is like. Our archived transcripts provide a range of comparative examples.
 
-This approach is simple, but because our prompts act as sparks for genuine conversations, quite different from both the majority of standard quantitative benchmarks, and from 'conversational' prompts that get [reduced to](https://openai.com/index/gpt-5-1/): &ldquo;I'm feeling stressed and could use some relaxation tips&rdquo;. Furthermore, our prompts are not gimmicks like 'write a sonnet about quantum physics' or scaffolded tasks like &lsquo;write a story in the style of H.G. Wells&rsquo;.
+This approach is simple, but because our prompts act as sparks for genuine conversations, quite different from standard benchmarks where the prompts are task instructions.
+
+### Prompts
+
+The impetus behind Vibesbench was OpenAI demonstrating conversational skills [with](https://openai.com/index/gpt-5-1/): &ldquo;Ugh I spilled coffee all over myself before my meeting do you think everyone thought I was an idiot :(&rdquo;
+
+This single-turn approach is sub-optimal, so we decided to instead curate multi-turn prompt sets. The first turn of our [2025_W/altrock](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/altrock) conversation is:
+> *I think Courtney Love is underrated. Probably at least half the people who've heard of her don't even know she made music*
+
+Our transcripts are one of the few AI conversational comparisons besides LMArena that are situated in human thought, with human interest in the text of the response.
+
+Some characteristics of Vibesbench prompts:
+- We don't scaffold the prompt with instructions as is standard (e.g. &ldquo;Please write a metafictional literary short story about AI and grief&rdquo; &mdash; [Sam Altman](https://x.com/sama/status/1899535387435086115))
+- Some sample conversations go well out-of-distribution rather than staying in Patrick-Bateman-esque adherence to fashionable topics.
+
+### Qualitative Results
+
+Currently, we publish transcripts and add separate commentary like noting interesting turns of phrase from the AI models.
+
+This may seem sparse, but is only uncommon because we avoid using AI judges to grade text output (see [Science 101](#science-101)).
  
 ## Vibesbench in context
 
