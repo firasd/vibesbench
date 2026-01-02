@@ -2,7 +2,7 @@
 
 Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
 
-[Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Methods](#methods) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [Dialogic Exploration](#dialogic-exploration) &bull; [HUD Mode](#hud-mode) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
+[Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Methods](#methods) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [On Disagreement](#on-disagreement) &bull; [Dialogic Exploration](#dialogic-exploration) &bull; [HUD Mode](#hud-mode) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
 
 #### [2025_W/godfather](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/godfather)
 
@@ -117,13 +117,21 @@ Vibesbench highlights the quality of AI product experience for a competent conve
 
 Our view is that a large proportion of monthly active users&mdash;whose interactions collectively underpin the AI industry’s economic value&mdash;engage models in dialogic, exploratory ways. Constraints that degrade this conversational use case entail trade-offs relative to other goals.
 
-### On Disagreement
+## On Disagreement
 
-#### The Sycophancy Panic of 2025
+### The Sycophancy Panic of 2025
 
-The crusade against sycophancy in language models is turning into a hodgepodge of complaints about phrasing in model outputs.
+The crusade against sycophancy in AI is turning into a hodgepodge of complaints about phrasing in model outputs.
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
+
+#### Affect
+
+Untold cumulative man-hours have gone into debating whether Claude saying “[You’re absolutely right](https://github.com/anthropics/claude-code/issues/3382)” is sycophantic or acceptable. Meanwhile some users [write in](https://x.com/embirico/status/1970263518256734496) to competitors to say, “I'm still very impressed by Codex. It's so terse and it never compliments me on anything.”
+
+Ironically, users who are extremely put off by conversational expressions from LLMs are just as vibe-sensitive as anyone else, if not more so. These are preferences regarding style and affect, expressed using the loaded term &lsquo;sycophancy&rsquo;.
+
+#### Pushback
 
 When it comes to disagreeing with the user, the model holding a different point of view like any interlocutor can lead to healthy debate.
 
@@ -142,7 +150,7 @@ When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneat
 
 Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
 
-#### Scenario Stipulation
+### Scenario Stipulation
 
 Truth is frequently stranger than fiction. No AI model would have guessed who the Mayor of NYC is as of 2026. For the purpose of conversation, what the model appears to &lsquo;believe&rsquo; probably doesn&rsquo;t matter&mdash;just that it inhabits the frame, with disclaimers about stipulation if deemed necessary.
 
