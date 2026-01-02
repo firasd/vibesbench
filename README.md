@@ -69,11 +69,15 @@ This may seem sparse, but is only uncommon because we avoid using AI judges to g
  
 ## Vibesbench in context
 
-  [The Vibe Check](#the-vibe-check) &bull; [AI as Interactive Collaborator](#ai-as-interactive-collaborator) &bull; [Science 101](#science-101) &middot; [On Disagreement](#on-disagreement)
+  [The Vibe Check](#the-vibe-check) &bull; [AI as Interactive Collaborator](#ai-as-interactive-collaborator) &bull; [Science 101](#science-101) &middot; [Limitations and Scope](#limitations-and-scope)
 
 Vibesbench focuses on multi-turn conversational coherence and interpretation, ideally leading to emergent synthesis.
 
-The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human preference. However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
+Our conversations implicitly assume a level of frontier capability: baseline world knowledge, multi-turn context tracking, and linguistic fluency.
+
+The [LMArena Text leaderboard](https://lmarena.ai/leaderboard/text) examines some of the same qualities through human preference, with similar methodological choices such as situated prompts and the absence of synthetic judges.
+
+However, many [LMArena chats](https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k) are single-turn queries such as &ldquo;How do I upgrade my pc without changing any hardware&rdquo;. Such interactions may not demonstrate the varied &lsquo;voices&rsquo; of AI models.
 
 ### The Vibe Check
 
