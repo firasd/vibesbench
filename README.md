@@ -183,9 +183,20 @@ It is unfortunate that we even have to describe these basics of how mental model
 
 An oracular query-contemplation paradigm is not satisfactory for tasks that are open-ended, or situated within uncertain information.
 
-Even in software development, a chain of thought that concludes &lsquo;there must be a bug in the library&rsquo; is less useful than debugging by reverting commits or tracing data flow. Not to mention that communication is inherent to collaborative work. (Notably, Opus 4.5 with thinking off is statistically tied with top thinking models on the LMArena [Web Dev leaderboard](https://lmarena.ai/leaderboard/webdev).)
+### Programming
 
-Furthermore, insights are usually contingent on context. As Douglas Adams memorably noted, even a perfect answer like ‘42’ can be illegible without a corresponding clear question.
+Even in software development, a chain of thought that concludes &lsquo;there must be a bug in the library&rsquo; is less useful than debugging by reverting commits or tracing data flow.
+
+Not to mention that communication is inherent to collaborative work:
+
+> An underrated part of why people love using Claude so much is that it seems to be *having fun* working with you, which makes the process more fun for you too and gets you into a flow state.<br />
+&mdash; [@nabeelqu](https://x.com/nabeelqu/status/2006455556094173390)
+
+Notably, Opus 4.5 with thinking off is statistically tied with top thinking models on the LMArena [Web Dev leaderboard](https://lmarena.ai/leaderboard/webdev).
+
+### Understanding
+
+Insights are usually contingent on context. As Douglas Adams memorably noted, even a perfect answer like ‘42’ can be illegible without a corresponding clear question.
 
 ### Resonance-based Traversal
 
