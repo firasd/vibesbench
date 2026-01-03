@@ -180,6 +180,8 @@ Truth is frequently stranger than fiction. No AI model would have guessed who th
 
 > “The constant Rip van Winkle astonishment of almost every AI model [&hellip;] remains pretty amusing (if annoying for practical purposes), as does their sheer incredulity about the state of the world in late 2025. Thinking traces full of ‘wait, that can’t be right’.” — [Ethan Mollick](https://x.com/emollick/status/2002548186511179907)
 
+> "It continued to fight with me, insisting that the whole [event] was a conspiracy theory [&hellip;] It was freaking weird." &mdash; Congressman [Jared Huffman](https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12)
+
 A human interlocutor would say: How? And the conversation would continue from there. 
 
 It is unfortunate that we even have to describe these basics of how mental models are updated in conversation, when 2024-vintage models understood this.
