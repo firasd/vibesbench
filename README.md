@@ -58,7 +58,8 @@ This single-turn approach is sub-optimal, so we decided to instead curate multi-
 Our transcripts are one of the few AI conversational comparisons besides LMArena that are situated in human thought, with human interest in the text of the response.
 
 Some characteristics of Vibesbench prompts:
-- We don't scaffold the prompt with instructions as is standard (e.g. &ldquo;Please write a metafictional literary short story about AI and grief&rdquo; &mdash; [Sam Altman](https://x.com/sama/status/1899535387435086115))
+- The prompts are not scaffolded with instructions as is standard (e.g. &ldquo;Please write a metafictional literary short story about AI and grief&rdquo; &mdash; [Sam Altman](https://x.com/sama/status/1899535387435086115))
+- Prompts are not aimed at generating text for third-party audiences
 - Some sample conversations go well out-of-distribution rather than staying in Patrick-Bateman-esque adherence to fashionable topics.
 
 ### Qualitative Results
