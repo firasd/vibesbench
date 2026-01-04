@@ -101,7 +101,7 @@ Fluency regressions we sometimes observe in state-of-the-art-models:
 - **Ticket closing**: attempting to find a task in the prompt and resolve it, which discourages follow-up exploration
 - **Epistemic rigidity**: refusing to accept context from users about world knowledge and current events
 
-These characteristics may be ideal for an agentic vending machine, but we propose a different design orientation.
+These characteristics may be ideal for an agentic vending machine, but they are less helpful for supporting thinking in motion.
 
 ### AI as Interactive Collaborator
 
