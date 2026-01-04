@@ -3,7 +3,7 @@
 
 The campaign against sycophancy in AI is turning into a hodgepodge of complaints about phrasing in model outputs.
 
-To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
+To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal-level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
 The term *sycophancy*, both etymologically and in current use, is a moral accusation involving complex social dynamics. It is a misleadingly elaborate metaphor to use in the context of LLMs (see [AI Ontology](https://github.com/firasd/vibesbench/#ai-ontology)).
 
@@ -25,7 +25,7 @@ When it comes to disagreeing with the user, the model holding a different point 
 
 For example:
 - If the user says Verhoeven films don’t have good cinematography, the Gemini 2.5/3 Pro models will take exception and argue that the aesthetic is deliberate. That’s fine.
-- Similarly, disagreeing about a particular software implementation approach can be benefical as a stress-test of the concept.
+- Similarly, disagreeing about a particular software implementation approach can be beneficial as a stress-test of the concept.
 
 But treating user prompts like questions in a deposition, derailing with nitpicks, or unfounded status quo bias isn&rsquo;t necessarily helpful.
 
@@ -48,7 +48,7 @@ Consider this actual example from Dec 2025:
 - **User**: [&hellip;] Interestingly Taylor swift has a song called The Fate of Ophelia on the billboard charts right now [&hellip;]
 - **GPT 5.2 Instant**: [&hellip;] I want to slow us down for one important reason before building on it. / First: a small factual check (important, not pedantic) / As of now, there is no Taylor Swift song called [&hellip;]
 
-Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adverserial or confabulated) degrades the product experience when the claim is not the object of inquiry.
+Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
 > "It continued to fight with me, insisting that the whole [event] was a conspiracy theory [&hellip;] It was freaking weird." &mdash; Congressman [Jared Huffman](https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12)
 
