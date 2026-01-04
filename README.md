@@ -200,6 +200,12 @@ A human interlocutor would say: How? And the conversation would continue from th
 
 It is unfortunate that we even have to describe these basics of how mental models are updated in conversation, when 2024-vintage models often understood this.
 
+#### Dullness and Disbelief 
+
+There is an irony in these developments. The memorable Sydney-Bing &ldquo;you have not been a good user&rdquo; incident occurred because the model refused to share Avatar sequel showtimes, reasoning that it couldn&rsquo;t possibly be 2023 yet. Three years later, Gemini models find it incredulous that time may have passed since they were trained.
+
+An interlocuter who can&rsquo;t conceive of white bears has the same mannerisms as an interlocuter who demands proof that white bears exist. Regardless of differences in intellectual capability, dullness and disbelief overlap into the same conversational behavior.
+
 ## Dialogic Exploration
 
 An oracular query-contemplation paradigm is not satisfactory for tasks that are open-ended, or situated within uncertain information.
