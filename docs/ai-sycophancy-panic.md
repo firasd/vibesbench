@@ -64,6 +64,6 @@ An interlocutor who can&rsquo;t conceive of white bears has the same mannerism a
 
 
 ---
-Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) &middot; Vibesbench discord: https://discord.gg/5K4EqWpp
+Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp
 
 Firas Durri • [https://twitter.com/firasd](https://twitter.com/firasd) • [https://www.linkedin.com/in/firasd](https://www.linkedin.com/in/firasd)
