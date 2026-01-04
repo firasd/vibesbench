@@ -149,11 +149,19 @@ The crusade against sycophancy in AI is turning into a hodgepodge of complaints 
 
 To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
+The term *sycophancy*, both etymologically and in current use, is a moral accusation involving complex social dynamics. It is a misleadingly elaborate metaphor to use in the context of LLMs (see [AI Ontology](#ai-ontology)).
+
 #### Affect
 
 Untold cumulative man-hours have gone into debating whether Claude saying “[You’re absolutely right](https://github.com/anthropics/claude-code/issues/3382)” is sycophantic or acceptable. Meanwhile some users [write in](https://x.com/embirico/status/1970263518256734496) to competitors to say, “I'm still very impressed by Codex. It's so terse and it never compliments me on anything.”
 
 Ironically, users who are extremely put off by conversational expressions from LLMs are just as vibe-sensitive as anyone else, if not more so. These are preferences regarding style and affect, expressed using the loaded term &lsquo;sycophancy&rsquo;.
+
+##### Feedback
+
+Perhaps what some users are trying to express with concerns about ‘sycophancy’ is that when they paste information, they'd like to see the AI examine various implications rather than provide an affirming summary.
+
+If so, anti-‘sycophancy’ tuning is ironically a counterproductive response and may result in more terse or less fluent responses. Exploring a topic is an inherently dialogic endeavor.
 
 #### Pushback
 
