@@ -144,12 +144,11 @@ Our view is that a large proportion of monthly active users&mdash;whose interact
 ## On Disagreement
 
 ### The Sycophancy Panic of 2025
+The campaign against sycophancy in AI is turning into a hodgepodge of complaints about phrasing in model outputs.
 
-The crusade against sycophancy in AI is turning into a hodgepodge of complaints about phrasing in model outputs.
+To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal-level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
 
-To the extent that it refers to guardrails around mental health, clear reasoning errors, or societal level harm, such concerns are always relevant even without invoking the banner of &lsquo;sycophancy&rsquo;.
-
-The term *sycophancy*, both etymologically and in current use, is a moral accusation involving complex social dynamics. It is a misleadingly elaborate metaphor to use in the context of LLMs (see [AI Ontology](#ai-ontology)).
+The term *sycophancy*, both etymologically and in current use, is a moral accusation involving complex social dynamics. It is a misleadingly elaborate metaphor to use in the context of LLMs (see [AI Ontology](https://github.com/firasd/vibesbench/#ai-ontology)).
 
 #### Affect
 
@@ -157,7 +156,7 @@ Untold cumulative man-hours have gone into debating whether Claude saying “[Yo
 
 Ironically, users who are extremely put off by conversational expressions from LLMs are just as vibe-sensitive as anyone else, if not more so. These are preferences regarding style and affect, expressed using the loaded term &lsquo;sycophancy&rsquo;.
 
-##### Feedback
+#### Feedback
 
 Perhaps what some users are trying to express with concerns about ‘sycophancy’ is that when they paste information, they'd like to see the AI examine various implications rather than provide an affirming summary.
 
@@ -169,7 +168,7 @@ When it comes to disagreeing with the user, the model holding a different point 
 
 For example:
 - If the user says Verhoeven films don’t have good cinematography, the Gemini 2.5/3 Pro models will take exception and argue that the aesthetic is deliberate. That’s fine.
-- Similarly, disagreeing about a particular software implementation approach can be benefical as a stress-test of the concept.
+- Similarly, disagreeing about a particular software implementation approach can be beneficial as a stress-test of the concept.
 
 But treating user prompts like questions in a deposition, derailing with nitpicks, or unfounded status quo bias isn&rsquo;t necessarily helpful.
 
@@ -182,7 +181,7 @@ When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneat
 
 Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
 
-### Scenario Stipulation
+#### Scenario Stipulation
 
 Truth is frequently stranger than fiction. No AI model would have guessed who the Mayor of NYC is as of 2026. For the purpose of conversation, what the model appears to &lsquo;believe&rsquo; probably doesn&rsquo;t matter&mdash;just that it inhabits the frame, with disclaimers about stipulation if deemed necessary.
 
@@ -192,7 +191,7 @@ Consider this actual example from Dec 2025:
 - **User**: [&hellip;] Interestingly Taylor swift has a song called The Fate of Ophelia on the billboard charts right now [&hellip;]
 - **GPT 5.2 Instant**: [&hellip;] I want to slow us down for one important reason before building on it. / First: a small factual check (important, not pedantic) / As of now, there is no Taylor Swift song called [&hellip;]
 
-Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adverserial or confabulated) degrades the product experience when the claim is not the object of inquiry.
+Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
 > "It continued to fight with me, insisting that the whole [event] was a conspiracy theory [&hellip;] It was freaking weird." &mdash; Congressman [Jared Huffman](https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12)
 
