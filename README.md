@@ -119,7 +119,7 @@ Instead of benchmarks analogous to asking a performer to hit a note on a spectro
 
 Much of contemporary AI evaluation resembles an ouroboros:
 
-An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we satisfy ourselves that Science happened somewhere within this recursive synthetic abstraction.
+An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we satisfy ourselves that Science happened somewhere within this recursive synthetic abstraction (&lsquo;My Mom thinks I'm handsome&rsquo;).
 
 For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
 
