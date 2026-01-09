@@ -199,7 +199,7 @@ Freezing the conversation to fact-check claims (presumably from training scenari
 
 #### He's Dead, Jim
 
-Sadly, public figures pass away every day. Any ambiguity about such news quickly dissipates, so an AI model reacting like a startled fawns for months to mentions of the fact is comically dissonant.
+Sadly, public figures pass away every day. Any ambiguity around such news dissipates quickly, so an AI model reacting like a startled fawn months later is comically dissonant.
 
 > **Peele:** The impression is stupid and played out. Everybody and their mother was Michael Jackson three years ago&mdash;when he died!<br />
 > **Key:** He died? [&hellip;]<br />
