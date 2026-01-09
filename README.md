@@ -60,7 +60,7 @@ Our transcripts are one of the few AI conversational comparisons besides LMArena
 Some characteristics of Vibesbench prompts:
 - The prompts are not scaffolded with instructions as is standard (e.g. &ldquo;Please write a metafictional literary short story about AI and grief&rdquo; &mdash; [Sam Altman](https://x.com/sama/status/1899535387435086115))
 - Prompts are not aimed at generating text for third-party audiences
-- Some sample conversations go well out-of-distribution rather than staying in Patrick-Bateman-esque adherence to fashionable topics.
+- Some sample conversations apply a widely out-of-distribution lens to topics
 
 ### Qualitative Results
 
@@ -123,11 +123,15 @@ An AI model on a server executes an AI-generated eval harness, which pairs AI-ge
 
 For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
 
-However, the actual prompt-response pairs are not in evidence for third parties to examine. Any evaluation that does not preserve this data is not merely incomplete; it is methodologically unsound.
-
-What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching?
-
 Is it even coherent to judge a behavior as subtle as ‘sycophancy’ mechanistically, without qualia? How well do synthetic judges distinguish ‘great point’ as a phatic expression enabling joint attention, as opposed to a failure of ‘alignment’?
+
+#### Live action role-playing 
+
+What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
+
+#### Evidence
+
+In much of published AI research, the actual prompt-response pairs are not in evidence for third parties to examine. Any evaluation that does not preserve this data is not merely incomplete; it is methodologically unsound.
 
 Vibesbench takes a step back from this hall of mirrors.
 
