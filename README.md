@@ -197,7 +197,21 @@ Consider this actual example from Dec 2025:
 
 Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
-> "It continued to fight with me, insisting that the whole [event] was a conspiracy theory [&hellip;] It was freaking weird." &mdash; Congressman [Jared Huffman](https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12)
+#### He's Dead, Jim
+
+Sadly, public figures pass away every day. Any ambiguity about such news quickly dissipates, so an AI model reacting like a startled fawns for months to mentions of the fact is comically dissonant.
+
+> **Peele:** The impression is stupid and played out. Everybody and their mother was Michael Jackson three years ago&mdash;when he died!<br />
+> **Key:** He died? [&hellip;]<br />
+> **Peele:** Wait a second, don't sad-moonwalk away&hellip; Happy Halloween&hellip;<br />
+> &mdash; [Key & Peele](https://www.youtube.com/watch?v=KgtizhlbIOQ)
+
+What&rsquo;s the worst that could happen if a user was indeed pranking the model and it expressed sympathies and explored consequences? Instead a Congressman is left with a product experience so jarring that he remembers and recounts it to a reporter months later:
+
+> "It continued to fight with me, insisting that the whole [event] was a conspiracy theory [&hellip;] It was freaking weird.<br />
+> &mdash; Congressman [Jared Huffman](https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12)
+
+#### Regression regime
 
 A human interlocutor would say: How? And the conversation would continue from there. 
 
