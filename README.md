@@ -197,11 +197,11 @@ Consider this actual example from Dec 2025:
 
 Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
-#### Adverserial LARP
+#### Adversarial LARP
 
-The usage pattern for which 2025 models are tuned seems to be that an adverserial user will create wily scenarios to trick the model.
+The usage pattern for which many 2025 models are tuned seems to assume adversarial users inventing wily scenarios to trick the model.
 
-This stance&mdash;&ldquo;What if *someone else* types something absurd I just imagined?&rdquo;&mdash;may not generate ecologically valid prompts representing users who share fake news or cling to false facts. Furthermore, this assumption significantly impairs the power-user case that involves using LLMs not as a search field, but for the technology&rsquo;s unique capabilities, such as prose review.
+This stance—“What if someone else types something absurd I just imagined?”—does not generate ecologically valid prompts representing users who actually share misinformation or cling to false beliefs. Furthermore, the assumption that user context is inherently suspicous significantly impairs the power-user case that involves using LLMs not as a search field, but for the technology&rsquo;s unique capabilities, such as prose review.
 
 > My favorite genre is still ChatGPT not believing current political developments when I ask it for a copy edit.<br />
 > OK, here's the newsletter with some thoughts on Minnesota and Venezuela.
@@ -210,7 +210,7 @@ This stance&mdash;&ldquo;What if *someone else* types something absurd I just im
 
 &mdash; [Nate Silver](https://x.com/NateSilver538/status/2008300663273357560)
 
-(ChatGPT doubted Nate Silver&rsquo;s reference to a geopolitical incident by saying it would be &ldquo;extraordinary, historically unprecedented, and globally destabilizing&rdquo;. But as Auden noted, almost [nothing](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem)) is &lsquo;globally destabilizing&rsquo;. LLMs are not good guages of reality.)
+(ChatGPT doubted Nate Silver&rsquo;s reference to a geopolitical incident by saying it would be &ldquo;extraordinary, historically unprecedented, and globally destabilizing&rdquo;. But as Auden noted, almost [nothing](https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux_Arts_(poem)) is &lsquo;globally destabilizing&rsquo;. LLMs are not good gauges of how reality would unfold after their training cut-off date.)
 
 #### He's Dead, Jim
 
