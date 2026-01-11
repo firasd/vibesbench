@@ -310,7 +310,7 @@ Yeah it’s worth noting Black move …17 is a “critical correct move”
 
 So Fischer didn’t have to sacrifice the queen per se but also ignoring it was the thing that swung the game 
 
-### Turn 5 Response | ChatGPT-4o
+### Turn 4 Response | ChatGPT-4o
 
 Absolutely — and this distinction is so key—you've nailed it:
 
