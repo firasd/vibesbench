@@ -125,7 +125,17 @@ For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/
 
 Is it even coherent to judge a behavior as subtle as ‘sycophancy’ mechanistically, without qualia? How well do synthetic judges distinguish ‘great point’ as a phatic expression enabling joint attention, as opposed to a failure of ‘alignment’?
 
-#### Live action role-playing 
+#### Synthetic Judgment
+
+The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore the implications for evaluating written prose.
+
+- Firstly, in settings such as MT-Bench (&ldquo;Compose an engaging travel blog post about a recent trip to Hawaii [&hellip;]&rdquo;), the expected outputs converge to the same shape, after which the benchmark gets saturated and loses relevance.
+- In more open-ended contexts, a judge model puts on a fake mustache and grades its peers. This encodes the judge model&rsquo;s biases (e.g. against emojis, or against certain rhetorical structures), which may diverge from human preference.
+- One could finally say: well, aggregate human preference is hardly a guide to inherent quality. Granted&mdash;but a trillion-dollar industry is not an art club. AI outputs are designed to be appealing to *some* demographic.
+
+#### Live action role-playing (LARPing)
+
+Who exactly is reading these ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
 What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
 
