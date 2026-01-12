@@ -142,7 +142,7 @@ Who exactly is reading these ‘creative writing’ samples that the AI judges a
 
 What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
 
-> &ldquo;The simulacrum is never what hides the truth—it is truth that hides the fact that there is none.&rdquo;
+> &ldquo;“It is the generation by models of a real without origin or reality: a hyperreal.”&rdquo;
 
 &mdash; Baudrillard
 
