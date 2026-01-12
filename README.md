@@ -121,6 +121,9 @@ Much of contemporary AI evaluation resembles an ouroboros:
 
 An AI model on a server executes an AI-generated eval harness, which pairs AI-generated prompts with AI responses, which are then scored by AI judges. Finally, AI-generated charts are published, and we satisfy ourselves that Science happened somewhere within this recursive synthetic abstraction (&lsquo;My Mom thinks I'm handsome&rsquo;).
 
+> &ldquo;Blue Steel, Ferrari, Le Tigre? They’re the same face! Doesn’t anyone notice this?!&rdquo;<br />
+> &mdash; Mogatu, &lsquo;Zoolander&rsquo;
+
 For example, Anthropic describes a &ldquo;[trade-off](https://www.anthropic.com/news/protecting-well-being-of-users) between model warmth or friendliness on the one hand, and sycophancy on the other&rdquo;. 
 
 Is it even coherent to judge a behavior as subtle as ‘sycophancy’ mechanistically, without qualia? How well do synthetic judges distinguish ‘great point’ as a phatic expression enabling joint attention, as opposed to a failure of ‘alignment’?
@@ -138,6 +141,10 @@ The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore 
 Who exactly is reading these ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
 What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
+
+> &ldquo;The simulacrum is never what hides the truth—it is truth that hides the fact that there is none.&rdquo;
+
+&mdash; Baudrillard
 
 #### Evidence
 
