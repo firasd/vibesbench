@@ -52,8 +52,12 @@ This approach is simple, but because our prompts act as sparks for genuine conve
 
 The impetus behind Vibesbench was OpenAI demonstrating conversational skills [with](https://openai.com/index/gpt-5-1/): &ldquo;Ugh I spilled coffee all over myself before my meeting do you think everyone thought I was an idiot :(&rdquo;
 
-This single-turn approach is sub-optimal, so we decided to instead curate multi-turn prompt sets. The first turn of our [2025_W/altrock](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_W/altrock) conversation is:
-> *I think Courtney Love is underrated. Probably at least half the people who've heard of her don't even know she made music*
+This single-turn example is sub-optimal (and it seems unrealistic that a question would be fully specified in this reassurance-seeking context), so we decided to instead curate multi-turn prompt sets.
+
+The first turn of our [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/ianmalcolm) conversation is:
+> *i noticed how goldblum was not in the 2025 jurassic world rebirth movie (they had another bespectacled guy jonathan bailey play a new character) and he kinda seemed out of place even in the 2018/2022 movies. it's like he's become a parody of ian malcolm with the "ah, uh" and jazz hands*
+
+([Try it in ChatGPT↗](https://chatgpt.com/?prompt=i%20noticed%20how%20goldblum%20was%20not%20in%20the%202025%20jurassic%20world%20rebirth%20movie%20%28they%20had%20another%20bespectacled%20guy%20jonathan%20bailey%20play%20a%20new%20character%29%20and%20he%20kinda%20seemed%20out%20of%20place%20even%20in%20the%202018%2F2022%20movies%2E%20it%27s%20like%20he%27s%20become%20a%20parody%20of%20ian%20malcolm%20with%20the%20%22ah%2C%20uh%22%20and%20jazz%20hands))
 
 Our transcripts are one of the few AI conversational comparisons besides LMArena that are situated in human thought, with human interest in the text of the response.
 
@@ -142,7 +146,7 @@ Who exactly is reading these ‘creative writing’ samples that the AI judges a
 
 What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
 
-> &ldquo;“It is the generation by models of a real without origin or reality: a hyperreal.”&rdquo;
+> “It is the generation by models of a real without origin or reality: a hyperreal.”
 
 &mdash; Baudrillard
 
