@@ -261,16 +261,18 @@ An interlocutor who can&rsquo;t conceive of white bears has the same mannerism a
 
 ## Dialogic Exploration
 
-An oracular query-contemplation paradigm is not satisfactory for tasks that are open-ended, or situated within uncertain information.
+Reasoning models (trained to think using a chain-of-thought during test-time compute inference) have achieved unprecedented performance in programming, math, and science challenges.
+
+Even in light of these capabilities, an oracular query-contemplation paradigm is not a panacea for tasks that are open-ended, or situated within uncertain information.
 
 ### Programming
 
-Even in software development, a chain of thought that concludes &lsquo;there must be a bug in the library&rsquo; is less useful than debugging by reverting commits or tracing data flow.
+Software development is not a purely rational practice. Diagnosing a problem with a chain of thought&mdash;e.g., concluding “there must be a bug in the library”&mdash;is less useful than debugging by reverting commits or tracing data flow.
 
-Not to mention that communication is inherent to collaborative work:
+Moreover, communication is inherent to collaborative work:
 
 > An underrated part of why people love using Claude so much is that it seems to be *having fun* working with you, which makes the process more fun for you too and gets you into a flow state.<br />
-&mdash; [@nabeelqu](https://x.com/nabeelqu/status/2006455556094173390)
+&mdash; [Nabeel Qureshi](https://x.com/nabeelqu/status/2006455556094173390)
 
 Notably, Opus 4.5 with thinking off is statistically tied with top thinking models on the LMArena [Web Dev leaderboard](https://lmarena.ai/leaderboard/webdev).
 
@@ -280,11 +282,33 @@ Insights are usually contingent on context. As Douglas Adams memorably noted, ev
 
 ### Resonance-based Traversal
 
-Through dialogue, humans can quickly traverse the latent space of a language model in ways that are otherwise too high in &lsquo;perplexity&rsquo; for an LLM to traverse autonomously. Finding such wormholes between the space of concepts is something humans do naturally (consider the phrase ‘No country for old men’, which is high-entropy but still resonant enough to be carried from a 1927 Yeats poem, to being the title of a novel and an Oscar-winning movie eighty years later.)
+AI language models contain billions of parameters in thousands of mathematical dimensions across many layers. We call the potential these structures represent for patterns to emerge:
+
+⋆｡˚✴︎⋆ Latent Space. ⋆✴︎˚｡⋆
+
+Through dialogue, humans can quickly traverse the latent space of a language model in ways that are otherwise too high in &lsquo;perplexity&rsquo; for an LLM to access autonomously. Finding such wormholes between the space of concepts is something humans do naturally (consider the phrase ‘No country for old men’, which is high-entropy but still resonant enough to be carried from a 1927 Yeats poem, to being the title of a novel and an Oscar-winning movie eighty years later.)
 
 > Not deliberate, not random. Some place in between. [&hellip;]<br />The challenge is not to act automatically. It's to find an action that is not automatic. From painting, to breathing, to talking&hellip;
 
 &mdash; Ex Machina (2015)
+
+#### Fishing in Latent Space
+
+Let&rsquo;s consider what exactly a &lsquo;prompt&rsquo; is in the context of language models.
+
+The landmark [GPT-3 paper](https://arxiv.org/abs/2005.14165) in 2020 showed that when a model is large enough, it can assistant with varied tasks through &lsquo;in-context learning&rsquo;.
+> &ldquo;Few-Shot (FS) is the term we will use in this work to refer to the setting where the model is given a few demonstrations of the task at inference time as conditioning [&hellip;] stuffing the model’s context with previous examples [resembles prior work] in that an inner loop of adaptation takes place through computation in the model’s activations across timesteps&rdquo;
+
+Without dialogue, what are we left with? Either the model has to provide all the ‘shots’ itself, or the human has to supply a heroic first turn prompt that anticipates every contour of the issue.
+
+Sometimes that works. If not, we can start plucking a tune and see what resonates in latent space.
+
+By exploring the neural network in this subtle, implicit way, we can wander into spaces that are harder to reach through a preset plan. Potential insights emerge both through the conversational dialectic and the human's own latent thoughts.
+
+> &ldquo;The Friends will still be doing something together, but something more inward, less widely shared and less easily defined; still hunters, but of some immaterial quarry; still collaborating&hellip;&rdquo; <br />
+> &mdash; C.S. Lewis
+
+Conditioning the probability distribution with natural language is just the latest way&mdash;after PCs and the internet&mdash;for end users to do general-purpose computing. 
 
 ## HUD Mode
 
