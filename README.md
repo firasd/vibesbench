@@ -282,7 +282,9 @@ Insights are usually contingent on context. As Douglas Adams memorably noted, ev
 
 ### Resonance-based Traversal
 
-AI language models contain billions of parameters in thousands of mathematical dimensions across many layers. We call the potential these structures represent for patterns to emerge:
+AI language models contain billions of parameters in thousands of mathematical dimensions across many layers.
+
+We call the potential these structures represent for patterns to emerge:
 
 ⋆｡˚✴︎⋆ Latent Space. ⋆✴︎˚｡⋆
 
@@ -296,7 +298,7 @@ Through dialogue, humans can quickly traverse the latent space of a language mod
 
 Let&rsquo;s consider what exactly a &lsquo;prompt&rsquo; is in the context of language models.
 
-The landmark [GPT-3 paper](https://arxiv.org/abs/2005.14165) in 2020 showed that when a model is large enough, it can assistant with varied tasks through &lsquo;in-context learning&rsquo;.
+The landmark [GPT-3 paper](https://arxiv.org/abs/2005.14165) in 2020 showed that when a model is large enough, it can assist with varied tasks through &lsquo;in-context learning&rsquo;.
 > &ldquo;Few-Shot (FS) is the term we will use in this work to refer to the setting where the model is given a few demonstrations of the task at inference time as conditioning [&hellip;] stuffing the model’s context with previous examples [resembles prior work] in that an inner loop of adaptation takes place through computation in the model’s activations across timesteps&rdquo;
 
 Without dialogue, what are we left with? Either the model has to provide all the ‘shots’ itself, or the human has to supply a heroic first turn prompt that anticipates every contour of the issue.
