@@ -92,8 +92,6 @@ However, as Sam Altman acknowledged during the GPT-5 rollout:
 
 > “We for sure underestimated how much some of the things that people like in GPT-4o matter to them… We will try to do much better… about making sure that our model gets better for most users, not just people using AI for science or coding.”
 
-Interestingly, GPT-4o and GPT-4.5 remain top 20 on LMArena Text as of Dec 2025, despite receiving no updates for 9 months.
-
 Vibesbench conversations reveal stylistic differences between models and highlight potential regressions.
 
 > i see dozens of #keep4o posts a day [&hellip;] i too, miss parts of 4o. know that, i too, dislike modern alignment's imprecision. know that we're trying to fix it.<br />
@@ -314,11 +312,27 @@ Conditioning the probability distribution with natural language is just the late
 
 ## HUD Mode
 
-Over three years after the launch of ChatGPT, major AI chat apps still don&rsquo;t have basic tools like a clock or to-do list. The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand. 
+Over three years after the launch of ChatGPT, major AI chat apps still don&rsquo;t have basic tools like a clock or to-do list (one suspects Bill Gates would have added a clock tool by Christmas 2022.) The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand
 
 However, this approach completely hobbles &lsquo;heads-up display&rsquo;-style usage. A GPS navigation system doesn’t write new trigonometry based functions every time it updates your route. Similarly, an AI without access to high-frequency tools can't help check if you are on track to finish a presentation in time for your meeting. In such cases, multi-turn conversation is not a digression from task&mdash;executive assistance *is* the task.
 
 It is illustrative that Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools, or the alignment tax of safety guardrails, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
+
+### Quantity as Quality
+
+Vibesbench conversations can only be conducted coherently in LLMs that are large enough to have baseline world knowledge.
+
+Sam Altman said in an Oct 2025 livestream:
+
+> &ldquo;Anonymous asks: ‘Will you ever open-source some of your old models, like the original GPT-4?’<br />
+We might do those as museum artefacts someday, but they're not, like&mdash;GPT-4 is not a particularly useful open-source model. It's big, it's not that good. You know, we could probably make something that is beyond the power of GPT-4 at a very tiny scale that would actually be useful to people.&rdquo;
+
+Clearly, ‘power’ is a relative term here. On the LMArena Text Leaderboard, which ranks LLMs on &ldquo;versatility, linguistic precision, and cultural context across text&rdquo;, gpt-oss-120b&mdash;despite being a reasoning model&mdash;ranks 101st. Meanwhile, GPT-4o and GPT-4.5 remain top 20 as of Jan 2026, nine months after their last update.
+
+GPT-4.5 was built by scaling up unsupervised learning (Altman [says](https://x.com/sama/status/1955438916645130740) it &ldquo;costs a lot of GPUs&rdquo; to use). And GPT-4o was unique in its combined text/vision/audio training: on launch, it could write database queries as well as any competitor, while also (as Altman famously posted) talking like the AI in &lsquo;Her&rsquo;.
+
+It is probably not incidental that the [paper](https://arxiv.org/abs/2005.14165) that launched the modern AI industry mentions density:
+>&ldquo;Specifically we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model&rdquo;.
 
 ## The Vibesbench Archive
 
