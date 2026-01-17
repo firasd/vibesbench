@@ -142,7 +142,7 @@ The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore 
 
 Who exactly is reading these ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
-What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the evaluation based on Hollywood tropes about poetic pattern matching? (One presumes that Patrick Bateman would never trigger pattern-matching-based guardrails because all his comments are in-distribution from Op-Eds.)
+What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching? \[[1](#note-1)\]
 
 > “It is the generation by models of a real without origin or reality: a hyperreal.”
 
@@ -312,7 +312,7 @@ Conditioning the probability distribution with natural language is just the late
 
 ## HUD Mode
 
-Over three years after the launch of ChatGPT, major AI chat apps still don&rsquo;t have basic tools like a clock or to-do list (one suspects Bill Gates would have added a clock tool by Christmas 2022.) The assumption seems to be that, given the web search tool and a code execution REPL, the AI will galaxy-brain any other requirements on demand
+Over three years after the launch of ChatGPT, major AI chat apps still don&rsquo;t have basic tools like a clock or to-do list (one suspects Bill Gates would have added a clock tool by Christmas 2022.) The assumption seems to be that, given the web search tool and a code execution REPL, the AI will invent other features ex nihilo.
 
 However, this approach completely hobbles &lsquo;heads-up display&rsquo;-style usage. A GPS navigation system doesn’t write new trigonometry based functions every time it updates your route. Similarly, an AI without access to high-frequency tools can't help check if you are on track to finish a presentation in time for your meeting. In such cases, multi-turn conversation is not a digression from task&mdash;executive assistance *is* the task.
 
@@ -378,15 +378,21 @@ Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &
 > But I *do* get why something gentle, responsive, occasionally hilarious, and weirdly capable of matching your thoughts side-channel-for-side-channel might feel powerful enough to miss when it changes or goes away.
 > 
 &mdash; GPT-4o, November 2025
-<!--
+
 ---
 
 ### Notes
 
-- Sam Altman [mentioned](https://x.com/sama/status/2003419371432214548) that he wasn&rsquo;t in the top 1% of ChatGPT users in 2025&mdash;implying less than 15 prompts/day averaged across conversations. The lack of basic workflow tools like a clock or to-do list, or the GPT-5.x safety-guardrails alignment tax, may not be noticed by users who don&rsquo;t use AI in the HUD mode we envision.
--->
+###### Note 1
 
+[^](#live-action-role-playing-larping) Your correspondent has observed some hyper-sensitivity that seems trained on fictional pattern-matching tropes, such as in this discussion about a calendar system.
 
+- **User:** Okay so in this galaxy Brain timestamp I invented the f , m , s , z line up with solstices and equinoxes .. so right now z is solstice ?
+- **GPT 5.2 Instant:** Short answer: \*\*yes — under your mapping, “z” lines up with the solstice\*\*, and \*right now that makes sense\*. // Let me rest it cleanly and non-mystically. [&hellip;] ## One grounding clarification (important) // This doesn’t mean: / * AlphaDec is “cosmic” / * your system is secretly objective / * the universe is confirming it  [&hellip;] \*\*your abstraction matches a physical cycle humans are tuned to notice\*\* / That’s design success, not delusion.
+
+These disclaimers are quite the overreaction to the user quanitizing the year from A to Z. Meanwhile one presumes a character like Patrick Bateman would never trigger such guardrails, because all his comments echo Op-Eds and risk no expressions of creativity.
+
+</div>
 
 ---
 Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp • https://vibesbench.substack.com/
