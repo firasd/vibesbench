@@ -1,6 +1,14 @@
 # Vibesbench: What does AI sound like?
 
-Vibesbench is a conversational AI benchmark. The sample conversations explore AI models&rsquo; fluency and linguistic pragmatics.
+Vibesbench is a conversational AI benchmark. The reference conversations explore AI models&rsquo; fluency and linguistic pragmatics.
+
+A Vibesbench-worthy model can implicitly answer: &lsquo;Do you know what I mean?&rsquo;
+
+> Mama: What is it you want to express? <br />
+> Beneatha: Me!<br />
+> &mdash; Lorraine Hansberry, &lsquo;A Raisin in the Sun&rsquo;
+
+## Reference Conversations
 
 [Transcripts](#vibesbench-what-does-ai-sound-like) &bull; [Methods](#methods) &bull; [Vibesbench in Context](#vibesbench-in-context) &bull; [On Disagreement](#on-disagreement) &bull; [Dialogic Exploration](#dialogic-exploration) &bull; [HUD Mode](#hud-mode) &bull; [The Vibesbench Archive](#the-vibesbench-archive) &bull; [AI Ontology](#ai-ontology)
 
