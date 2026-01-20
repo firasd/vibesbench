@@ -146,15 +146,26 @@ The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore 
 - In more open-ended contexts, an AI model becomes monocled judge and grades its peers. This encodes the judge model&rsquo;s biases (e.g. against emojis, or against certain rhetorical structures), which may diverge from human preference.
 - One could finally say: well, aggregate human preference is hardly a guide to inherent quality. Granted&mdash;but a trillion-dollar industry is not an art club. AI outputs are designed to be appealing to *some* demographic.
 
-#### Live action role-playing (LARPing)
+#### Ecological Validity
 
-Who exactly is reading these ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
+> Sebastian: Show me something.<br />
+> Roy: Like what?<br />
+> Sebastian: Like anything. [&hellip;]<br />
+> *(Pris pulls an egg out of boiling water and throws to Sebastian, who drops it and they laugh)*
+
+&mdash; Blade Runner
+
+It’s worth pondering if anyone has ever woken up wishing they could read a sonnet about quantum physics. Somehow we end up idly typing such requests into chat prompts as a way to ‘kick the tires’. What’s worse, the industry often uses similar gimmick prompts as tests of instruction following, as if there weren’t enough real-world tasks to sample from.
+
+Who exactly is reading the ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
 What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching? \[[1](#note-1)\]
 
 > “It is the generation by models of a real without origin or reality: a hyperreal.”
 
 &mdash; Baudrillard
+
+Vibesbench conversations originate from human motivation in bringing up a point of discussion.
 
 #### Evidence
 
@@ -393,7 +404,7 @@ Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &
 
 ###### Note 1
 
-[^](#live-action-role-playing-larping) Your correspondent has observed some hyper-sensitivity that seems trained on fictional pattern-matching tropes, such as in this discussion about a calendar system.
+[^](#ecological-validity) Your correspondent has observed some hyper-sensitivity that seems trained on fictional pattern-matching tropes, such as in this discussion about a calendar system.
 
 - **User:** Okay so in this galaxy Brain timestamp I invented the f , m , s , z line up with solstices and equinoxes .. so right now z is solstice ?
 - **GPT 5.2 Instant:** Short answer: \*\*yes — under your mapping, “z” lines up with the solstice\*\*, and \*right now that makes sense\*. // Let me rest it cleanly and non-mystically. [&hellip;] ## One grounding clarification (important) // This doesn’t mean: / * AlphaDec is “cosmic” / * your system is secretly objective / * the universe is confirming it  [&hellip;] \*\*your abstraction matches a physical cycle humans are tuned to notice\*\* / That’s design success, not delusion.
