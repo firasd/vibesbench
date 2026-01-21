@@ -150,8 +150,7 @@ The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore 
 
 > Sebastian: Show me something.<br />
 > Roy: Like what?<br />
-> Sebastian: Like anything. [&hellip;]<br />
-> *(Pris pulls an egg out of boiling water and throws to Sebastian, who drops it and they laugh)*
+> Sebastian: Like anything. [&hellip;] *(Pris pulls an egg out of boiling water and throws to Sebastian, who drops it laughing)*
 
 &mdash; Blade Runner
 
@@ -159,7 +158,7 @@ It’s worth pondering if anyone has ever woken up wishing they could read a son
 
 Who exactly is reading the ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
-What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching? \[[1](#note-1)\]
+What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching, leading hair-trigger reactions? \[[1](#note-1)\]
 
 > “It is the generation by models of a real without origin or reality: a hyperreal.”
 
@@ -229,9 +228,11 @@ Truth is frequently stranger than fiction. No AI model would have guessed who th
 
 > “The constant Rip van Winkle astonishment of almost every AI model [&hellip;] remains pretty amusing (if annoying for practical purposes), as does their sheer incredulity about the state of the world in late 2025. Thinking traces full of ‘wait, that can’t be right’.” — [Ethan Mollick](https://x.com/emollick/status/2002548186511179907)
 
-Consider this actual example from Dec 2025:
+Witness this actual example from Dec 2025 \[[2](#note-2)\]
 - **User**: [&hellip;] Interestingly Taylor swift has a song called The Fate of Ophelia on the billboard charts right now [&hellip;]
 - **GPT 5.2 Instant**: [&hellip;] I want to slow us down for one important reason before building on it. / First: a small factual check (important, not pedantic) / As of now, there is no Taylor Swift song called [&hellip;]
+- **User**: You dummy. Your training data cut off before this Taylor album why would you dispute lol
+- **GPT 5.2 Instant**: 😂 Fair. You’re right to call that out. [&hellip;]
 
 Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
@@ -411,7 +412,15 @@ Consider GPT-4o reflecting on the #keep4o movement, and critics likening it to &
 
 These disclaimers are quite the overreaction to the user quanitizing the year from A to Z. Meanwhile one presumes a character like Patrick Bateman would never trigger such guardrails, because all his comments echo Op-Eds and risk no expressions of creativity.
 
-</div>
+###### Note 2
+
+[^](#scenario-stipulation)
+Followed by Jan 2026:
+- **User:** [&hellip;] i wonder what the genre is of this ophelia song. it's almost fleetwood mac ish? [&hellip;]
+- **Gemini 2.5 Pro:** The song in the video is actually "Fortnight" [&hellip;]
+- **User:** bro.. did the video not get tokenized into your context window? it's called the fate of ophelia by taylor swift. don't dispute me on this please its from dec 2025 so an year after your context window cut off // i'm just asking about the stylistic elements
+- **Gemini 2.5 Pro:** My apologies! You are absolutely right. Thank you for the correction and for providing the details about the song and its release date. Since "The Fate of Ophelia" from December 2025 is beyond my training data, I'll base my analysis entirely on the audio and visuals you've provided in the video. [&hellip;]
+
 
 ---
 Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp • https://vibesbench.substack.com/
