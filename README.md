@@ -340,6 +340,8 @@ It is illustrative that Sam Altman [mentioned](https://x.com/sama/status/2003419
 
 ### Quantity as Quality
 
+> &ldquo;‘Monster’ is a relative term.&rdquo;<br />&mdash; Henry Wu, &lsquo;Jurassic World&rsquo;
+> 
 Vibesbench conversations can only be conducted coherently in LLMs that are large enough to have baseline world knowledge.
 
 Sam Altman said in an Oct 2025 livestream:
