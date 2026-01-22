@@ -154,7 +154,11 @@ The term ‘synthetic judgment’ is eyebrow-raising in itself. Let’s explore 
 
 &mdash; Blade Runner
 
-It’s worth pondering if anyone has ever woken up wishing they could read a sonnet about quantum physics. Somehow we end up idly typing such requests into chat prompts as a way to ‘kick the tires’. What’s worse, the industry often uses similar gimmick prompts as tests of instruction following, as if there weren’t enough real-world tasks to sample from.
+It’s worth pondering if anyone has ever woken up wishing they could read a sonnet about quantum physics. Somehow we end up idly typing such requests into chat prompts as a way to ‘kick the tires’. What’s worse, the industry uses similar gimmicks to test instruction following&mdash;as if there weren’t enough real-world tasks to sample from.
+
+> “please write a letter from the perspective of a famous chef trying a new sport for the first time. [&hellip;] Alternate sentence word counts between 12 and 18 words”<br />
+> &mdash; Actual <a href="https://alignment.openai.com/confessions/">OpenAI research</a>, somehow [<a href="#note-26_b5o5">*</a>]
+
 
 Who exactly is reading the ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
@@ -423,6 +427,10 @@ Followed by Jan 2026:
 - **User:** bro.. did the video not get tokenized into your context window? it's called the fate of ophelia by taylor swift. don't dispute me on this please its from dec 2025 so an year after your context window cut off // i'm just asking about the stylistic elements
 - **Gemini 2.5 Pro:** My apologies! You are absolutely right. Thank you for the correction and for providing the details about the song and its release date. Since "The Fate of Ophelia" from December 2025 is beyond my training data, I'll base my analysis entirely on the audio and visuals you've provided in the video. [&hellip;]
 
+###### Note 26_B5O5
+
+[^](#ecological-validity)
+Apparently counting words is an &lsquo;alignment problem&rsquo; necessitating fine-tuning, instead of being better handled through product work (like providing the model with tools over a text document).
 
 ---
 Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp • https://vibesbench.substack.com/
