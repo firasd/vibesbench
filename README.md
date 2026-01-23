@@ -162,7 +162,7 @@ It’s worth pondering if anyone has ever woken up wishing they could read a son
 
 Who exactly is reading the ‘creative writing’ samples that the AI judges are approving of? There goes another story about a stranded astronaut in the style of H.G. Wells, generated to serve the evaluation-industrial complex, as the relevance of this task fades from memory.
 
-What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching, leading hair-trigger reactions? \[[1](#note-1)\]
+What is the ecological validity of model-generated prompts for &lsquo;delusion&rsquo;? Is the training based on Hollywood tropes about poetic pattern matching, leading to hair-trigger reactions? \[[1](#note-1)\]
 
 > “It is the generation by models of a real without origin or reality: a hyperreal.”
 
@@ -203,9 +203,17 @@ Ironically, users who are extremely put off by conversational expressions from L
 
 #### Feedback
 
-Perhaps what some users are trying to express with concerns about ‘sycophancy’ is that when they paste information, they'd like to see the AI examine various implications rather than provide an affirming summary.
+Perhaps what some users are trying to express with concerns about ‘sycophancy’ is that when they share information, they'd like to see the AI examine various implications rather than provide an affirming summary.
 
 If so, anti-‘sycophancy’ tuning is ironically a counterproductive response and may result in more terse or less fluent responses. Exploring a topic is an inherently dialogic endeavor.
+
+A technique to evoke &lsquo;opinions&rsquo; from LLMs, and a grounding note on what that means:
+
+> Don't think of LLMs as entities but as simulators. For example, when exploring a topic, don't ask: // "What do you think about xyz"? // There is no "you". Next time try: // "What would be a good group of people to explore xyz? What would they say?"
+> 
+> The LLM can channel/simulate many perspectives but it hasn't "thought about" xyz for a while and over time and formed its own opinions in the way we're used to. If you force it via the use of "you", it will give you something by adopting a personality embedding vector implied by the statistics of its finetuning data and then simulate that. It's fine to do, but there is a lot less mystique to it than I find people naively attribute to "asking an AI".
+
+ &mdash; [Andrej Karpathy](https://x.com/karpathy/status/1997731268969304070)
 
 #### Pushback
 
@@ -220,9 +228,35 @@ But treating user prompts like questions in a deposition, derailing with nitpick
 > Look, this isn't an argument. […] It‘s just contradiction.<br />
 > &mdash; Monty Python
 
+#### Self-Reliance
+
+> &ldquo;Shifu decides Po is ready for the Dragon Scroll, but Po discovers it is blank.&rdquo;<br />
+> &mdash; Wikipedia on [Kung Fu Panda](https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film))
+
+It is a deep misunderstanding of the role of AI in human affairs to expect the ideal chat app to behave like a short-tempered Kung Fu master.
+
+Firstly, even if the user is mistaken, a Socratic approach is more convincing than a scolding (see [Understanding](#understanding)).
+
+More significantly, when it comes down to it&mdash;on the most practical, embodied level&mdash;no AI has the agency to green-light any plan or theory.
+
+When it comes to questions like:
+- &lsquo;Which political party is more puritan?&rsquo;
+- &lsquo;Should this app use MySQL or Elastic?&rsquo;
+
+The AI can only be an advisor or sparring partner, enabling the user to call their own shot.
+
+> "Gabriel before me, Raphael behind me&hellip;"
+
+&mdash; [Kate Bush](https://www.youtube.com/watch?v=xKjRCr3V4js) (whether she succeeded or not, at least she didn't seek them in the GPUs)
+
 The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning for skepticism will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
 
 When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneath our moon.&rdquo;
+
+We are doomed to decide for ourselves. It is our burden, and it is our privilege.
+
+> &ldquo;Son rocher est sa chose.&rdquo; (&lsquo;His rock is his thing&rsquo;)<br />
+> &mdash; Camus
 
 Vibesbench considers the human user to be the arbiter for personal sense-making and doesn&rsquo;t test whether the LLM can make cosmic judgment calls. 
 
