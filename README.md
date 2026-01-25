@@ -313,7 +313,7 @@ It is unfortunate that we even have to describe these basics of how mental model
 
 There is an irony in these developments. The memorable Sydney-Bing &ldquo;you have not been a good user&rdquo; incident occurred because the model refused to share Avatar sequel showtimes, reasoning that it couldn&rsquo;t possibly be 2023 yet. Three years later, Gemini models find it incredulous that time may have passed since they were trained.
 
-An interlocutor who can&rsquo;t conceive of white bears has the same mannerism as an interlocutor who demands proof that white bears exist. Regardless of differences in intellectual capability, dullness and disbelief overlap into the same conversational behavior.
+An interlocutor who can&rsquo;t conceive of white bears has the same mannerism as one who demands proof that white bears exist. Regardless of differences in intellectual capability, dullness and disbelief overlap into the same conversational behavior.
 
 ## Dialogic Exploration
 
