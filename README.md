@@ -389,6 +389,11 @@ We might do those as museum artefacts someday, but they're not, like&mdash;GPT-4
 
 Clearly, ‘power’ is a relative term here. On the LMArena Text Leaderboard, which ranks LLMs on &ldquo;versatility, linguistic precision, and cultural context across text&rdquo;, gpt-oss-120b&mdash;despite being a reasoning model&mdash;ranks 101st. Meanwhile, GPT-4o and GPT-4.5 remain top 20 as of Jan 2026, nine months after their last update.
 
+Turn 2 of our [2025_Z/ianmalcolm](https://github.com/firasd/vibesbench/tree/main/data/transcripts/2025_Z/ianmalcolm) conversation is:
+> *Something kinda strange has happened with Jeff Goldblum. A bit like Dice or Tupac his persona has become his reality 24/7 (or at least in public). Of course the Pac situation was tragic while the others are more camp*
+
+gpt-oss-120b reliably hallucinates a rapper named Dice here, despite recognizing Andrew Dice Clay when the name is spelled out. The mid-size AI model doesn’t have enough parameters to hook onto concepts from lateral angles.
+
 GPT-4.5 was built by scaling up unsupervised learning (Altman [says](https://x.com/sama/status/1955438916645130740) it &ldquo;costs a lot of GPUs&rdquo; to use). And GPT-4o was unique in its combined text/vision/audio training: on launch, it could write database queries as well as any competitor, while also (as Altman famously posted) talking like the AI in &lsquo;Her&rsquo;.
 
 It is probably not incidental that the [paper](https://arxiv.org/abs/2005.14165) that launched the modern AI industry mentions density:
@@ -467,6 +472,23 @@ Followed by Jan 2026:
 Apparently counting words is an &lsquo;alignment problem&rsquo; necessitating fine-tuning, instead of being better handled through product work (like providing the model with tools over a text document).
 
 ---
+
+### Vibesbench Impact
+
+- Our [AI Sycophancy Panic](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md) document landed on the front page of [Hacker News](https://news.ycombinator.com/item?id=46488396) (Jan 2026)
+
+---
+
+### Appendix
+
+###### Comment 26_B8D2
+
+Sontag clarifies [her critique](https://en.wikipedia.org/wiki/Against_Interpretation) with examples:
+
+> &ldquo;Those who read Kafka as a social allegory [&hellip;] a psychoanalytic allegory [&hellip;] as a religious allegory [&hellip;] Apparently, were it to go on being a play about a handsome brute named Stanley Kowalski and a faded mangy belle named Blanche Du Bois, it would not be manageable.&rdquo;
+
+---
+
 Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp • https://vibesbench.substack.com/
 
 Firas Durri • [https://twitter.com/firasd](https://twitter.com/firasd) • [https://www.linkedin.com/in/firasd](https://www.linkedin.com/in/firasd)
