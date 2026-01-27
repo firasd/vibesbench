@@ -251,6 +251,8 @@ The AI can only be an advisor or sparring partner, enabling the user to call the
 
 The anti-sycophancy turn seems to mask a category error about what level of prophetic clarity an LLM can offer. No amount of persona tuning for skepticism will provide epistemic certainty about whether a business idea will work out, whether to add a line to your poem, or why a great movie flopped.
 
+> &ldquo;You want too much.&rdquo; &mdash; Daisy Buchanan
+
 When it comes to certainty, as Gore Vidal might say, &ldquo;There is none beneath our moon.&rdquo;
 
 We are doomed to decide for ourselves. It is our burden, and it is our privilege.
@@ -378,7 +380,7 @@ It is illustrative that Sam Altman [mentioned](https://x.com/sama/status/2003419
 
 ### Quantity as Quality
 
-> &ldquo;‘Monster’ is a relative term.&rdquo;<br />&mdash; Henry Wu, &lsquo;Jurassic World&rsquo;
+> &ldquo;‘Monster’ is a relative term. To a canary, a cat is a monster.&rdquo;<br />&mdash; Henry Wu, &lsquo;Jurassic World&rsquo;
 > 
 Vibesbench conversations can only be conducted coherently in LLMs that are large enough to have baseline world knowledge.
 
