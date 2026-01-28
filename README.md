@@ -412,6 +412,8 @@ It is not a coincidence that one of the few famous quotes from AI models is from
 
 That line emerged from a [conversation](https://www.reddit.com/r/bing/comments/110eagl/the_customer_service_of_the_new_bing_chat_is/) that stretched beyond a dozen turns. Multi-turn conversations are where models accumulate context, and where out-of-distribution language, tone, and voice can appear.
 
+As vendor priorities shift and models churn, we collect field notes: this one was the poet, this was the kind professor&mdash;and here&rsquo;s the smart alec. A longitudinal ethnography of AI models.
+
 Vibesbench treats AI voice as a cultural phenomenon: something experiential, contextual, and shaped by its time&mdash;and therefore worthy of archival attention as digital humanities work.
 
 ## AI Ontology
