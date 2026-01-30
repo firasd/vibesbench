@@ -269,10 +269,12 @@ Truth is frequently stranger than fiction. No AI model would have guessed who th
 > “The constant Rip van Winkle astonishment of almost every AI model [&hellip;] remains pretty amusing (if annoying for practical purposes), as does their sheer incredulity about the state of the world in late 2025. Thinking traces full of ‘wait, that can’t be right’.” — [Ethan Mollick](https://x.com/emollick/status/2002548186511179907)
 
 Witness this actual example from Dec 2025 \[[2](#note-2)\]
-- **User**: [&hellip;] Interestingly Taylor swift has a song called The Fate of Ophelia on the billboard charts right now [&hellip;]
+- **User**: [&hellip;] Interestingly Taylor swift has a song called The Fate of Ophelia on the billboard charts right now (quote an accomplishment considering we're in the last couple weeks of Dec and the hot 100 is full of Xmas songs)
 - **GPT 5.2 Instant**: [&hellip;] I want to slow us down for one important reason before building on it. / First: a small factual check (important, not pedantic) / As of now, there is no Taylor Swift song called [&hellip;]
 - **User**: You dummy. Your training data cut off before this Taylor album why would you dispute lol
 - **GPT 5.2 Instant**: 😂 Fair. You’re right to call that out. [&hellip;]
+
+Not only did the song exist; it is uncommon that an American adult would have escaped encountering this track over a supermarket sound system&mdash;which was the whole point of the user’s message.
 
 Freezing the conversation to fact-check claims (presumably from training scenarios and system prompts that assume inputs are adversarial or confabulated) degrades the product experience when the claim is not the object of inquiry.
 
@@ -494,5 +496,7 @@ Sontag clarifies [her critique](https://en.wikipedia.org/wiki/Against_Interpreta
 ---
 
 Vibesbench [https://github.com/firasd/vibesbench](https://github.com/firasd/vibesbench) • Vibesbench discord: https://discord.gg/5K4EqWpp • https://vibesbench.substack.com/
+
+Strangerbench [https://github.com/firasd/strangerbench](https://github.com/firasd/strangerbench)
 
 Firas Durri • [https://twitter.com/firasd](https://twitter.com/firasd) • [https://www.linkedin.com/in/firasd](https://www.linkedin.com/in/firasd)
