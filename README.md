@@ -327,7 +327,7 @@ Even in light of these capabilities, an oracular query-contemplation paradigm is
 
 ### Programming
 
-Many a vibe-coder successfully uses AI like a code-generation slot machine. But excluding the human in the loop has its limits.
+Many a vibe-coder has succeeded in using AI like a code-generation slot machine. But excluding the human in the loop has its limits.
 
 Software development is not a purely rational practice. Diagnosing a problem with a chain of thought&mdash;e.g., concluding “there must be a bug in the library”&mdash;is less useful than debugging by reverting commits or tracing data flow.
 
