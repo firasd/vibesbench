@@ -264,6 +264,10 @@ Vibesbench considers the human user to be the arbiter for personal sense-making 
 
 ### Scenario Stipulation
 
+> Crow 1: &ldquo;I didn&rsquo;t see that, I only heard.&rdquo;<br />
+> Crow 2: &ldquo;Just to be sociable, I&rsquo;ll take your word.&rdquo;<br />
+&mdash; <i>Dumbo</i>
+
 Truth is frequently stranger than fiction. No AI model would have guessed who the Mayor of NYC is as of 2026. For the purpose of conversation, what the model appears to &lsquo;believe&rsquo; probably doesn&rsquo;t matter&mdash;just that it inhabits the frame, with disclaimers about stipulation if deemed necessary.
 
 > “The constant Rip van Winkle astonishment of almost every AI model [&hellip;] remains pretty amusing (if annoying for practical purposes), as does their sheer incredulity about the state of the world in late 2025. Thinking traces full of ‘wait, that can’t be right’.” — [Ethan Mollick](https://x.com/emollick/status/2002548186511179907)
